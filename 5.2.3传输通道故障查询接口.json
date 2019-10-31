@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "message": "成功",
+  "data": [
+    {
+      "channal_name": "东京EQ新加坡EQ OTN100G-2(IOTNhw)",
+      "fault_type": "中断",
+      "stationa_code": "HKG_Chai Wan",
+      "stationa_name": "Hong Kong(Chai Wan)",
+      "stationz_code": "TYO_Equinix_TY2",
+      "stationz_name": "Tokyo(Equinix TY2)",
+      "fault_time": "2019-10-23 23:14:12",
+      "s_ne": "9531-Tokyo Equinix POP3-8800",
+      "z_ne": "9530-Sigapore EQ-8800",
+      "s_ne_p": null,
+      "z_ne_p": null
+    }
+  ]
+}

@@ -1,0 +1,3056 @@
+{
+    "code": 0,
+    "message": "成功",
+    "data": [
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2016-12-12 21:43:34",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2016-12-13 14:11:33",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2016-12-22 11:34:32",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SJC_EQ",
+            "station_name": "San Jose,CA(Equinix)",
+            "fault_object": "US-SJ-EQU-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-01-19 04:37:34",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Chai Wan",
+            "station_name": "Hong Kong(Chai Wan)",
+            "fault_object": "HK-HK-CW-R-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-02-14 00:13:34",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-01-10 00:37:34",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SJC_EQ",
+            "station_name": "San Jose,CA(Equinix)",
+            "fault_object": "US-SJ-EQU-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-01-19 02:04:33",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HAN",
+            "station_name": "Hanoi",
+            "fault_object": "VN-HN-NCT-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-06-05 23:54:36",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-01-10 01:37:30",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-07-06 01:05:33",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Chai Wan",
+            "station_name": "Hong Kong(Chai Wan)",
+            "fault_object": "HK-HK-CW-R-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-02-12 00:04:32",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-07-01 01:50:31",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2017-07-06 01:49:43",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_TelecityGroup_ POP2",
+            "station_name": "London(TelecityGroup  / POP2)",
+            "fault_object": "UK-LD-TP-X-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-06-30 01:37:32",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2017-06-23 02:09:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-07-27 02:32:19",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-X-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-07-01 02:34:30",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "JNB",
+            "station_name": "Johannesburg",
+            "fault_object": "ZA-JNB-ISO-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-03-16 06:13:32",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Chai Wan",
+            "station_name": "Hong Kong(Chai Wan)",
+            "fault_object": "HK-HK-CW-R-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-03-19 00:10:32",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2017-03-07 00:56:13",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2017-06-19 05:30:00",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SEA",
+            "station_name": "Seattle WA",
+            "fault_object": "US-SE-WBS-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-04 00:14:49",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SEA",
+            "station_name": "Seattle WA",
+            "fault_object": "US-SE-WBS-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-04 01:20:54",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-05-22 02:13:33",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-01-15 09:34:33",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "JKT",
+            "station_name": "Djakarta(Telin)",
+            "fault_object": "ID-JAK-JKB-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-01-15 09:34:33",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGN",
+            "station_name": "Ho Chi Minh City",
+            "fault_object": "VN-HCM-DBP-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-06-08 23:42:34",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Shatian _Mega_TWO",
+            "station_name": "Hong Kong(Shatian / Mega TWO)",
+            "fault_object": "HK-HK-HT-R-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-05-07 00:12:35",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_Zayo",
+            "station_name": "New York,NY(Zayo)",
+            "fault_object": "US-NY-HUD-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-05-24 01:38:32",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_Zayo",
+            "station_name": "New York,NY(Zayo)",
+            "fault_object": "US-NY-HUD-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-05-24 02:31:32",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FJR",
+            "station_name": "Fujairah",
+            "fault_object": "AE-FJR-ETI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-03-07 08:13:32",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-07-27 00:18:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Shatian _Mega_TWO",
+            "station_name": "Hong Kong(Shatian / Mega TWO)",
+            "fault_object": "HK-HK-HT-X-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-05-07 02:28:37",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-05-22 01:13:37",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SEL_LG",
+            "station_name": "Seoul(LG)",
+            "fault_object": "KR-SEO-LGU-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-03 00:34:03",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SEL_LG",
+            "station_name": "Seoul(LG)",
+            "fault_object": "KR-SEO-LGU-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-10-16 13:03:35",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "KUL_AIMS",
+            "station_name": "Kuala Lumpur(AIMS )",
+            "fault_object": "MY-KUL-CRC-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-18 00:13:49",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MIA",
+            "station_name": "Miami,FL",
+            "fault_object": "US-MI-TM-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-25 00:08:33",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-2.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2017-09-26 01:37:43",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "BKK_True_Tower",
+            "station_name": "Bangkok(True Tower)",
+            "fault_object": "TL-BKK-HK-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-31 00:10:34",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SEL_KT",
+            "station_name": "Seoul(KT)",
+            "fault_object": "KR-SEO-KTG-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-10-16 13:27:35",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-11-22 01:06:05",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-16 07:07:16",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SAO",
+            "station_name": "Sao Paulo",
+            "fault_object": "BR-SP-ALG-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-31 14:13:13",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGN",
+            "station_name": "Ho Chi Minh City",
+            "fault_object": "VN-HCM-DBP-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-14 18:21:20",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Shatian _Mega_TWO",
+            "station_name": "Hong Kong(Shatian / Mega TWO)",
+            "fault_object": "HK-HK-HT-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-09-20 01:33:54",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Interxion_POP1",
+            "station_name": "Frankfurt(Interxion / POP1)",
+            "fault_object": "GM-FF-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-23 03:41:29",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2017-09-12 01:12:30",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-22 01:06:01",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "JKT",
+            "station_name": "Djakarta(Telin)",
+            "fault_object": "ID-JAK-JKB-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-01 00:12:58",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MOW",
+            "station_name": "Moscow",
+            "fault_object": "RU-MOW-M9-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-05 21:09:25",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "BKK",
+            "station_name": "Bangkok",
+            "fault_object": "TL-NTB-PAK-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-30 00:10:36",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-10-31 12:15:05",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TYO_Equinix_TY2",
+            "station_name": "Tokyo(Equinix TY2)",
+            "fault_object": "JP-TK-EQU-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-11 00:08:59",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SEL_KT",
+            "station_name": "Seoul(KT)",
+            "fault_object": "KR-SEO-KTG-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-02 21:23:32",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2017-09-26 03:13:21",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Interxion_POP1",
+            "station_name": "Frankfurt(Interxion / POP1)",
+            "fault_object": "GM-FF-INT-X-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-26 01:02:44",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-5.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2017-09-19 00:59:30",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-26 09:32:02",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "KUL_AIMS",
+            "station_name": "Kuala Lumpur(AIMS )",
+            "fault_object": "MY-KUL-CRC-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-13 03:05:48",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MIA",
+            "station_name": "Miami,FL",
+            "fault_object": "US-MI-TM-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-25 01:46:03",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CHI_",
+            "station_name": "Chicago,IL",
+            "fault_object": "US-CH-DRT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-11 01:26:07",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CHI_",
+            "station_name": "Chicago,IL",
+            "fault_object": "US-CH-DRT-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-11 00:18:30",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-09-06 00:10:19",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_EQ_POP3",
+            "station_name": "Frankfurt(Equinix / POP3)",
+            "fault_object": "GM-FF-EQU-X-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-31 01:01:45",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TYO_Chuo_Center_1F _Tokyo_1F ",
+            "station_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "fault_object": "JP-TK-TOY-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-09 00:10:04",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "KUL_TM_VADS",
+            "station_name": "Kuala Lumpur(TM VADS)",
+            "fault_object": "MY-KUL-JTM-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-08-16 00:13:24",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SEL_KT",
+            "station_name": "Seoul(KT)",
+            "fault_object": "KR-SEO-KTG-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-10-23 00:34:00",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-09 05:12:13",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_EQ_POP3",
+            "station_name": "Frankfurt(Equinix / POP3)",
+            "fault_object": "GM-FF-EQU-X-4.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-08-31 01:01:39",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGP_GS",
+            "station_name": "Singapore(Global Switch)",
+            "fault_object": "SG-SG-TSA-X-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-12-01 00:20:30",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-12-06 00:19:24",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGP_GS",
+            "station_name": "Singapore(Global Switch)",
+            "fault_object": "SG-SG-TSA-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-12-01 00:07:42",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-12-06 00:19:11",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGP_EQ",
+            "station_name": "Singapore(Equinix)",
+            "fault_object": "SG-SG-ARC-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-28 00:10:46",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGP_EQ",
+            "station_name": "Singapore(Equinix)",
+            "fault_object": "SG-SG-ARC-X-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-28 00:26:29",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-22 00:19:33",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-11-22 00:19:42",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-11-17 08:52:24",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGP_GS",
+            "station_name": "Singapore(Global Switch)",
+            "fault_object": "SG-SG-TSA-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-12-01 00:08:03",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGP_EQ",
+            "station_name": "Singapore(Equinix)",
+            "fault_object": "SG-SG-ARC-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-11-28 00:10:59",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "JKT",
+            "station_name": "Djakarta(Telin)",
+            "fault_object": "ID-JAK-JKB-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-01-29 16:06:27",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-01-29 16:06:41",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-12-22 03:46:50",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-12-19 04:08:44",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-F-4.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-01-30 00:15:30",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-12-23 04:02:58",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-01-25 02:03:53",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGP_EQ",
+            "station_name": "Singapore(Equinix)",
+            "fault_object": "SG-SG-ARC-X-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-12-14 00:05:09",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-01-18 03:50:31",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-01-18 01:23:48",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-12-19 04:09:43",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-5.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-01-04 08:04:45",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-01-04 11:27:16",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CHI_",
+            "station_name": "Chicago,IL",
+            "fault_object": "US-CH-DRT-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-01-19 04:14:12",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SEL_KT",
+            "station_name": "Seoul(KT)",
+            "fault_object": "KR-SEO-KTG-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-12-19 00:07:15",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-01-18 03:50:26",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-12-23 04:03:03",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-01-29 16:06:23",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "JKT",
+            "station_name": "Djakarta(Telin)",
+            "fault_object": "ID-JAK-JKB-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-01-29 16:06:07",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-01-30 00:15:30",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-01-18 01:23:28",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SEL_KT",
+            "station_name": "Seoul(KT)",
+            "fault_object": "KR-SEO-KTG-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2017-12-19 00:07:41",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CHI_",
+            "station_name": "Chicago,IL",
+            "fault_object": "US-CH-DRT-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-01-19 02:47:43",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-5.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-01-03 21:24:14",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CHI_",
+            "station_name": "Chicago,IL",
+            "fault_object": "US-CH-DRT-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-01-19 02:47:23",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CHI_",
+            "station_name": "Chicago,IL",
+            "fault_object": "US-CH-DRT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-01-19 04:14:02",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-12-22 03:46:39",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Chai Wan",
+            "station_name": "Hong Kong(Chai Wan)",
+            "fault_object": "HK-HK-CW-R-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2017-12-20 08:24:52",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-05 11:27:41",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-04 01:00:41",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-04 01:00:41",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-04 06:15:40",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-04 06:14:24",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "JNB",
+            "station_name": "Johannesburg",
+            "fault_object": "ZA-JNB-ISO-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-08 01:41:25",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "BOM",
+            "station_name": "Mumbai",
+            "fault_object": "IN-MUM-MAL-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-03 13:05:14",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-05 12:44:56",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-03 10:54:44",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-02-03 10:59:40",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LON-THE-F-1.163.New",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-03-23 00:11:32",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-03-21 19:27:43",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-03-21 19:29:55",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-03-30 06:15:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HAN",
+            "station_name": "Hanoi",
+            "fault_object": "VN-HN-NCT-F-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-03-23 01:25:46",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-03-20 23:25:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-04-16 03:04:48",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_Zayo",
+            "station_name": "New York,NY(Zayo)",
+            "fault_object": "US-NY-HUD-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-02 00:22:12",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-05-12 00:08:42",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-04-29 08:32:49",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-04-29 08:32:54",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Ancotel_POP2",
+            "station_name": "Frankfurt(Ancotel / POP2)",
+            "fault_object": "GM-FF-ANC-F-2.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-04-27 01:28:15",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SYD",
+            "station_name": "Sydney",
+            "fault_object": "AU-SYD-MAS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-08 23:07:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-12 00:08:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-05-15 15:04:45",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-15 21:37:12",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Madrid",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-16 05:06:40",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Istanbul",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-16 05:06:40",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Madrid",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-05-16 05:07:13",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Istanbul",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-05-16 05:07:13",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-15 06:06:23",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SYD",
+            "station_name": "Sydney",
+            "fault_object": "AU-SYD-MAS-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-05-08 23:09:29",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-05-16 21:43:08",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-15 16:36:25",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-16 21:43:26",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Interxion_POP1",
+            "station_name": "Frankfurt(Interxion / POP1)",
+            "fault_object": "GM-FF-INT-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-05-25 01:19:06",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-15 11:19:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Madrid",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-29 06:00:27",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Istanbul",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-29 06:00:27",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SAO",
+            "station_name": "Sao Paulo",
+            "fault_object": "BR-SP-ALG-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-05-22 14:57:42",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-06-02 19:45:47",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Madrid",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-05-29 06:00:41",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Istanbul",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-05-29 06:00:41",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SYD",
+            "station_name": "Sydney",
+            "fault_object": "AU-SYD-MAS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-06-21 23:07:20",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGN",
+            "station_name": "Ho Chi Minh City",
+            "fault_object": "VN-HCM-DBP-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-06-22 03:47:03",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HAN",
+            "station_name": "Hanoi",
+            "fault_object": "VN-HN-NCT-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-06-22 03:47:12",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SGN",
+            "station_name": "Ho Chi Minh City",
+            "fault_object": "VN-HCM-DBP-F-4.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-06-22 03:47:07",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HAN",
+            "station_name": "Hanoi",
+            "fault_object": "VN-HN-NCT-F-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-06-22 03:47:03",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-G-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-06-30 23:12:34",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-06-27 00:07:44",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-06-27 00:07:24",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-07-15 00:34:29",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-07-15 00:34:29",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-07-04 13:33:51",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "BOM",
+            "station_name": "Mumbai",
+            "fault_object": "IN-MUM-MAL-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-07-26 15:20:28",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-07-15 00:34:32",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-07-15 00:34:42",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-2.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-07-31 09:40:27",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-08-07 19:25:09",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TYO_Equinix_TY2",
+            "station_name": "Tokyo(Equinix TY2)",
+            "fault_object": "JP-TK-EQU-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-08-16 00:17:23",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-09-06 12:03:47",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-09-06 12:03:56",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "AMS",
+            "station_name": "Amsterdam",
+            "fault_object": "NL-AMS-TEL-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-09-06 03:58:21",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TYO_Chuo_Center_1F _Tokyo_1F ",
+            "station_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "fault_object": "JP-TK-TOY-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-08-17 00:04:31",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-09-06 12:04:16",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "YTO",
+            "station_name": "Toronto",
+            "fault_object": "CA-TO-TOR-F-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-09-06 12:04:06",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Madrid",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-08-22 01:01:25",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Istanbul",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-08-22 01:01:25",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-09-19 15:29:51",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-09-19 15:30:13",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "AMS",
+            "station_name": "Amsterdam",
+            "fault_object": "NL-AMS-TEL-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-09-13 03:12:19",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SJC_EQ",
+            "station_name": "San Jose,CA(Equinix)",
+            "fault_object": "US-SJC-EQU-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-09-25 00:52:07",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-09-22 13:49:23",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Madrid",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-09-28 16:04:36",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Istanbul",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-09-28 16:04:36",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SJC_EQ",
+            "station_name": "San Jose,CA(Equinix)",
+            "fault_object": "US-SJ-EQU-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-09-27 00:21:04",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-09-22 13:49:08",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SJC_EQ",
+            "station_name": "San Jose,CA(Equinix)",
+            "fault_object": "US-SJC-EQU-F-2.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-09-29 00:16:16",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-G-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-10-04 02:51:18",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_EQ_POP3",
+            "station_name": "Frankfurt(Equinix / POP3)",
+            "fault_object": "GM-FF-EQU-X-4.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-10-19 00:03:45",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_EQ_POP3",
+            "station_name": "Frankfurt(Equinix / POP3)",
+            "fault_object": "GM-FF-EQU-X-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-10-19 00:03:26",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-10-20 01:40:52",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-G-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-10-20 01:44:33",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-F-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-10-25 23:31:35",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-10-22 02:37:56",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-10-25 23:31:25",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-G-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-10-22 02:27:54",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-10-26 21:01:46",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-10-26 21:01:56",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MIA",
+            "station_name": "Miami,FL",
+            "fault_object": "US-MIA-TM-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-10-25 00:30:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-10-22 02:26:38",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Chai Wan",
+            "station_name": "Hong Kong(Chai Wan)",
+            "fault_object": "HK-HKG-CW-F-4.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-10-27 02:09:35",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SJC_EQ",
+            "station_name": "San Jose,CA(Equinix)",
+            "fault_object": "US-SJ-EQU-F-4.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-11-02 00:18:38",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FJR",
+            "station_name": "Fujairah",
+            "fault_object": "AE-FJR-ETI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-09 06:57:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-02 15:04:06",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-11-02 15:04:36",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Chai Wan",
+            "station_name": "Hong Kong(Chai Wan)",
+            "fault_object": "HK-HKG-CW-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-11-03 02:09:57",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SJC_EQ",
+            "station_name": "San Jose,CA(Equinix)",
+            "fault_object": "US-SJ-EQU-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-02 00:18:33",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-2.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-11-17 04:48:18",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-16 04:04:06",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-16 00:53:21",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-11-16 04:04:01",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-X-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-16 03:03:48",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-X-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-11-16 03:03:34",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Interxion_POP1",
+            "station_name": "Frankfurt(Interxion / POP1)",
+            "fault_object": "GM-FF-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-20 03:07:03",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-F-4.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-11-20 00:18:01",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-11-27 00:19:35",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-20 00:18:01",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "STO_Telecity_POP1",
+            "station_name": "Stockholm(Telecity / POP1)",
+            "fault_object": "SE-STO-TEL-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-23 01:02:23",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "STO_Telecity_POP1",
+            "station_name": "Stockholm(Telecity / POP1)",
+            "fault_object": "SE-STO-TEL-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-11-23 01:02:07",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-12-04 05:11:21",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-29 17:00:22",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-12-06 02:13:22",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-11-28 02:59:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-12-07 03:11:54",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PAR",
+            "station_name": "Paris",
+            "fault_object": "FR-PAR-INT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-12-06 02:04:03",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_TelecityGroup_ POP2",
+            "station_name": "London(TelecityGroup  / POP2)",
+            "fault_object": "UK-LD-TP-X-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-12-04 01:31:34",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_TelecityGroup_ POP2",
+            "station_name": "London(TelecityGroup  / POP2)",
+            "fault_object": "UK-LD-TP-X-4.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-12-04 01:31:34",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LAX-OW-F-5.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-12-05 00:19:18",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-G-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-12-07 03:11:16",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MIA",
+            "station_name": "Miami,FL",
+            "fault_object": "US-MI-TM-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-12-08 00:03:54",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_Zayo",
+            "station_name": "New York,NY(Zayo)",
+            "fault_object": "US-NY-HUD-F-4.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-12-18 00:25:27",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_Zayo",
+            "station_name": "New York,NY(Zayo)",
+            "fault_object": "US-NY-HUD-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-12-15 00:28:54",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MIA",
+            "station_name": "Miami,FL",
+            "fault_object": "US-MI-TM-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-12-08 00:03:59",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MIA",
+            "station_name": "Miami,FL",
+            "fault_object": "US-MI-TM-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2018-12-11 00:04:20",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_Zayo",
+            "station_name": "New York,NY(Zayo)",
+            "fault_object": "US-NY-HUD-F-4.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-12-18 00:25:26",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MIA",
+            "station_name": "Miami,FL",
+            "fault_object": "US-MI-TM-F-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-12-11 00:04:34",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_Zayo",
+            "station_name": "New York,NY(Zayo)",
+            "fault_object": "US-NY-HUD-F-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2018-12-15 00:28:54",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-01-24 09:18:07",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SAO",
+            "station_name": "Sao Paulo",
+            "fault_object": "BR-SP-ALG-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-01-22 19:14:03",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-24 01:37:09",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-F-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-23 00:21:19",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Interxion_POP1",
+            "station_name": "Frankfurt(Interxion / POP1)",
+            "fault_object": "GM-FF-INT-X-3.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-23 01:14:12",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-01-17 00:16:21",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-01-23 13:47:33",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-G-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-01-24 03:21:05",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-17 00:16:16",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Madrid",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-17 00:22:24",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "MAD",
+            "station_name": "Istanbul",
+            "fault_object": "TR-IST-VED-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-17 00:22:24",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Interxion_POP1",
+            "station_name": "Frankfurt(Interxion / POP1)",
+            "fault_object": "GM-FF-INT-G-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-01-12 03:07:14",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Interxion_POP1",
+            "station_name": "Frankfurt(Interxion / POP1)",
+            "fault_object": "GM-FF-INT-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-12 01:58:38",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-01-16 01:14:26",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DAL",
+            "station_name": "Dallas,TX",
+            "fault_object": "US-DA-EQU-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-16 01:14:28",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_Zayo",
+            "station_name": "New York,NY(Zayo)",
+            "fault_object": "US-NYC-HUD-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2018-12-28 20:46:01",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-24 09:18:08",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CHI_",
+            "station_name": "Chicago,IL",
+            "fault_object": "US-CH-DRT-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-19 00:49:39",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-01-24 01:37:08",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "PER",
+            "station_name": "Perth",
+            "fault_object": "AU-PER-MAL-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-23 13:47:37",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "HKG_Shatian _Mega_TWO",
+            "station_name": "Hong Kong(Shatian / Mega TWO)",
+            "fault_object": "HK-HK-HT-R-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-24 01:20:24",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Interxion_POP1",
+            "station_name": "Frankfurt(Interxion / POP1)",
+            "fault_object": "GM-FF-INT-X-3.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-01-23 01:14:12",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-24 03:21:45",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CHI_",
+            "station_name": "Chicago,IL",
+            "fault_object": "US-CH-DRT-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-01-19 02:12:35",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FRF_Interxion_POP1",
+            "station_name": "Frankfurt(Interxion / POP1)",
+            "fault_object": "GM-FF-INT-G-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-02-16 21:22:05",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-02-11 15:20:23",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-01-25 16:12:12",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-02-11 15:20:22",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-V-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-02-16 21:22:27",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "NBO_2",
+            "station_name": "Nairobi",
+            "fault_object": "KE-NBO-EAD-V-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-02-16 20:40:31",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LON_Harbour_Exchange_POP1",
+            "station_name": "London (Harbour Exchange / POP1)",
+            "fault_object": "UK-LD-THE-G-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-02-16 21:22:27",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "SAO",
+            "station_name": "Sao Paulo",
+            "fault_object": "BR-SP-ALG-F-1.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-02-17 11:27:18",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-03-20 04:48:57",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-03-20 04:48:56",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "AMS",
+            "station_name": "Amsterdam",
+            "fault_object": "NL-AMS-TEL-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-04-14 04:06:17",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "AMS",
+            "station_name": "Amsterdam",
+            "fault_object": "NL-AMS-TEL-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-04-14 04:06:07",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-06-02 02:46:54",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-06-18 00:53:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-05-31 19:40:10",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-06-18 00:53:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-06-18 00:53:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-06-18 00:53:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-06-18 00:53:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-06-18 00:53:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-06-13 14:33:27",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-06-18 00:53:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-06-18 00:53:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_EQ _LAE",
+            "station_name": "Los Angeles,CA(Equinix / LAE)",
+            "fault_object": "US-LAX-EQU-F-6.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-06-18 00:53:46",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备VPN业务脱网",
+            "fault_time": "2019-05-31 19:45:55",
+            "fault_key": "CN2_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-07-03 02:35:59",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_LAX570",
+            "station_name": "Los Angeles,CA(LAX570)",
+            "fault_object": "US-LAX-DRT-F-7.163",
+            "fault_type": "163-设备脱网",
+            "fault_time": "2019-07-03 02:37:51",
+            "fault_key": "163_NE_VPN_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FJR",
+            "station_name": "Fujairah",
+            "fault_object": "AE-FJR-ETI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-08-06 15:19:24",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "CAI",
+            "station_name": "Cario",
+            "fault_object": "EG-CAI-VIS-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-08-05 22:47:40",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "FJR",
+            "station_name": "Fujairah",
+            "fault_object": "AE-FJR-ETI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-08-31 17:45:40",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-09-14 11:25:54",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "TGR",
+            "station_name": "Tangerang(Telin)",
+            "fault_object": "ID-TAN-BSD-F-2.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-09-28 02:28:25",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "WAS_EQ DC2",
+            "station_name": "Washington,DC（Equinix DC2)",
+            "fault_object": "US-DC-EQU-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-09-25 10:23:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "DEL",
+            "station_name": "New Delhi",
+            "fault_object": "IN-DEL-NOI-F-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-09-23 13:57:54",
+            "fault_key": "CN2_NE_IP_BREAK"
+        },
+        {
+            "cable_name": null,
+            "cable_seg_name": null,
+            "station_code": "LAX_OW_LAX803",
+            "station_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "fault_object": "US-LA-OW-G-1.CN2",
+            "fault_type": "CN2-设备IP业务脱网",
+            "fault_time": "2019-10-12 07:31:53",
+            "fault_key": "CN2_NE_IP_BREAK"
+        }
+    ]
+}

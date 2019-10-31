@@ -1,0 +1,4014 @@
+{
+    "code": 0,
+    "message": "成功",
+    "data": [
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C008*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "北京X4-圣何塞F1-100G(BEI/CT-SJC/CT 100G001*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "2000000",
+            "circuit_name": "英国/伦敦F1-南非/约翰内斯堡F1-2G(JNB/CT-LDN/CT VC4S003*IP)",
+            "stationa_code": "LON_Harbour_Exchange_POP1",
+            "stationa_name": "London (Harbour Exchange / POP1)",
+            "stationz_code": "JNB",
+            "stationz_name": "Johannesburg"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "东京F1-洛杉矶F1-10G(TOK/CT-LAX/CT 64V4C001*IP)",
+            "stationa_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationa_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X3-香港F1-100G(GZU/CT-HKG/CT 100G003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C007*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F4-圣何塞F2-10G(HKG/CT-SJC/CT 64V4C015*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州/同和X4-美国/洛杉矶F1-10G(GZU/CT-LAX/CT64V4C008)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C024*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(SHI/CT-LDN/CTEUR 64V4C003*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C026*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C031*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-法兰克福F1-10G(FRK/CT-SHI/CT 64V4C006*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-新加坡F3-10GE(GZU/CT-SNG/CT 64V4C004*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-香港F4-10G(GZU/CT-HKG/CT 64V4C016*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F1-圣何塞F1-10G(HKG/CT-SJC/CT 64V4C016*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-香港F4-10G(BEI/CT-HKG/CT 64V4C011*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-香港F1-10G(BEI/CT-HKG/CT 64V4C010*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-香港F1-10G(GZU/CT-HKG/CT 64V4C018*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-香港F1-10G(GZU/CT-HKG/CT 64V4C019*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-香港F4-10G(GZU/CT-HKG/CT 64V4C017*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C009*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C027*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/迈阿密F1-巴西/圣保罗F1-10G（MIA/CTUSA-SAO/CTUSA 64V4C003*IP）",
+            "stationa_code": "MIA",
+            "stationa_name": "Miami,FL",
+            "stationz_code": "SAO",
+            "stationz_name": "Sao Paulo"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-法兰克福F2-10G(FRK/CT-GZU/CT 64V4C011*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "2000000",
+            "circuit_name": "美国/纽约F1-巴西/圣保罗F1-2G(MIA/CTUSA-SAO/CTUSA 64V4C003*IP)",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "SAO",
+            "stationz_name": "Sao Paulo"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "法兰克福F1-华盛顿F1-10GE(FRK/CTEUR-WDC/CTUSA 64V4C001)",
+            "stationa_code": "FRF_Interxion_POP1",
+            "stationa_name": "Frankfurt(Interxion / POP1)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "阿姆斯特丹F1-华盛顿F1-10GE(Amsterdam/CTEUR-WDC/CTUSA 64V4C001)",
+            "stationa_code": "AMS",
+            "stationa_name": "Amsterdam",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C025*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "北京X3-香港F1-100G(BEI/CT-HKG/CT 100G003*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X3-希尔斯伯勒F1-100G(Hillsboro/CT-SHI/CT 100G002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-法兰克福F2-10G(FRK/CT-GZU/CT 64V4C005)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-法兰克福F2-10G(FRK/CT-SHI/CT 64V4C005*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C032*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "阿姆斯特丹F1-伦敦F1-10G(Amsterdam/CTEUR-LDN/CTEUR 64V4C001)",
+            "stationa_code": "AMS",
+            "stationa_name": "Amsterdam",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(LDN/CT-SHI/CT 64V4C001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C028*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C030*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "华盛顿F1-迈阿密F1-10G(WAS/CTUSA-MIA/CTUSA 10GE9001*IP)",
+            "stationa_code": "WAS_EQ DC2",
+            "stationa_name": "Washington,DC（Equinix DC2)",
+            "stationz_code": "MIA",
+            "stationz_name": "Miami,FL"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X3-香港F1-100G(GZU/CT-HKG/CT 100G006*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-阿姆斯特丹F1-10G(AMS/CT-GZU/CT 64V4C001*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/纽约F1-美国/圣何塞F2-10GE",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "新加坡F4-香港F1-10G(HKG/CT-SNG/CT 64V4C049*IP)",
+            "stationa_code": "Katong",
+            "stationa_name": "Katong",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C023*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C030*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C028*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C024*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-阿姆斯特丹F1-10G(BEI/CT-Amsterdam/CTEUR 64V4C001*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C025*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C026*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C027*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-东京F1-10G(SHI/CT-TOK/CT 64V4C011*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-东京F1-10G(SHI/CT-TOK/CT 64V4C009*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C036*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X4-希尔斯伯勒F1-100G(Hillsboro/CT-SHI/CT 100G001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CTUSA 64V4C007*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "新加坡F4-伦敦F1-10GE(LDN/CT-SNG/CT 64V4C003*IP)",
+            "stationa_code": "Katong",
+            "stationa_name": "Katong",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-法兰克福F2-10G(BEI/CT-FRK/CT 64V4C010*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X4-法兰克福F2-100G(FRK/CT-GZU/CT 100G001*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X4-圣何塞F1-100G(GZU/CT-SJC/CT 100G004*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港/柴湾F1-日本/东京F2-10G(HKG/CT-TOK/CT 64V4C014*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港/柴湾F4-日本/东京F2-10G(HKG/CT-TOK/CT 64V4C013*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10GE(BEI/CT-SJC/CT 64V4C019*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港/柴湾/F4-香港/将军澳/W15-10GE(MIA/CTHK-TKO/CTHK EP003*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "HKG_TKO",
+            "stationz_name": "Hong Kong(TKO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港/柴湾/F4-香港/将军澳/W15-10GE(MIA/CTHK-TKO/CTHK EP004*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "HKG_TKO",
+            "stationz_name": "Hong Kong(TKO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F1-洛杉矶F1-10G(HKG/CT-LAX/CT 64V4C026*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港/火炭/F2-香港/将军澳/W16-10GE(FT/CTHK-TKO/CTHK EP002*IP)",
+            "stationa_code": "HKG_Shatian _Mega_TWO",
+            "stationa_name": "Hong Kong(Shatian / Mega TWO)",
+            "stationz_code": "HKG_TKO",
+            "stationz_name": "Hong Kong(TKO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-法兰克福F1-10G(FRK/CT-SHI/CT 64V4C016*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "新加坡F3-香港F4-10G(HKG/CT-SNG/CT 64V4C050*IP)",
+            "stationa_code": "Tuas",
+            "stationa_name": "Tuas",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "新加坡F3-约翰内斯堡F1-155M(JNB/CT-SNG/CT EP004*IP)",
+            "stationa_code": "Tuas",
+            "stationa_name": "Tuas",
+            "stationz_code": "JNB",
+            "stationz_name": "Johannesburg"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F1-圣何塞F1-10G(HKG/CT-SJC/CT 64V4C013*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-新加坡F3-10GE(GZU/CT-SNG/CT 64V4C007*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X4-香港F4-100G(GZU/CT-HKG/CT 100G005*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "美国/洛杉矶F1-美国/洛杉矶F6-100GE(LAX/OW-OW/100GE9007*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_EQ _LAE",
+            "stationz_name": "Los Angeles,CA(Equinix / LAE)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "美国/洛杉矶F2-美国/洛杉矶F6-100GE(LAX/OW-OW/100GE9008*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_EQ _LAE",
+            "stationz_name": "Los Angeles,CA(Equinix / LAE)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/洛杉矶F2-日本/东京F2-10G(LAX/CT-TOK/CT 64V4C004*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "东京F1-圣何塞F1-10G(TOK/CT-SJC/CT 64V4C002*IP)",
+            "stationa_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationa_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/华盛顿F1-美洲/洛杉矶F1-10G(US201700002251)",
+            "stationa_code": "WAS_EQ DC2",
+            "stationa_name": "Washington,DC（Equinix DC2)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/华盛顿F1-美洲/洛杉矶F2-10G(US201700002265)",
+            "stationa_code": "WAS_EQ DC2",
+            "stationa_name": "Washington,DC（Equinix DC2)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10G(BEI/CT-SJC/CT 64V4C010*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F1-洛杉矶F1-10G(HKG/CT-LAX/CT 64V4C024*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X4-圣何塞F1-100G(SHI/CT-SJC/CT 100G001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X3-圣何塞F2-100G(GZU/CT-SJC/CT 100G001*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-法兰克福F1-10G(FRK/CT-SHI/CT 64V4C004*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C018*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C015*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C016*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C029*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C019*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C022*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C029*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C023*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C025*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-香港F1-10G(HKG/CT-SHI/CT 64V4C016)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C025*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C027*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-香港F4-10G(HKG/CT-SHI/CT 64V4C013*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-香港F4-10G(HKG/CT-SHI/CT 64V4C014*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "北京X4-香港F4-100G(BEI/CT-HKG/CT 100G004*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-法兰克福F1-10G(FRK/CT-SHI/CT 64V4C002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C021*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C004*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C005*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C011*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CTUSA-SHI/CT 64V4C006*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C003*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C005*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C010*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C011*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CTUSA 64V4C001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CTUSA 64V4C002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10G(BEI/CT-SJC/CT 64V4C012*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-香港F1-10G(BEI/CT-HKG/CT 64V4C008*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-阿姆斯特丹F1-10G(AMS/CT-BEI/CT 64V4C002*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-香港F4-10G(BEI/CT-HKG/CT 64V4C007*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-伦敦F1-10G(BEI/CT-LDN/CTEUR 64V4C002*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C008*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-法兰克福F1-10G(BEI/CT-FRK/CTEUR 64V4C004*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-法兰克福F1-10G(BEI/CT-FRK/CTEUR 64V4C003*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-洛杉矶F2-10G(BEI/CT-LAX/CT 64V4C016*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-洛杉矶F2-10G(BEI/CT-LAX/CT 64V4C009*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-洛杉矶F2-10G(BEI/CT-LAX/CT 64V4C012*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-洛杉矶F2-10G(BEI/CT-LAX/CTUSA 64V4C002*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10G(BEI/CT-SJC/CTUSA 64V4C002*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-香港F1-10G(BEI/CT-HKG/CT 64V4C003*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-伦敦F1-10G(BEI/CT-LDN/CT 64V4C001*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-法兰克福F2-10G(BEI/CT-FRK/CTEUR 64V4C005*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-法兰克福F2-10G(BEI/CT-FRK/CTEUR 64V4C001*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C014*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C007*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C011*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C013*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-圣何塞F1-10G(BEI/CT-SJC/CT 64V4C009*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-圣何塞F1-10G(BEI/CT-SJC/CT 64V4C011*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-香港F4-10G(BEI/CT-HKG/CT 64V4C004*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-香港F4-10G(BEI/CT-HKG/CT 64V4C006*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C009*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C010*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "北京X3-洛杉矶F2-100GE(BEI/CT-LAX/CTUSA 100G001*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-新加坡F4-10G(GZU/CT-SNG/CT 64V4C009*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10G(BEI/CT-SJC/CT 64V4C015*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10G(BEI/CT-SJC/CT 64V4C013*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10G(BEI/CT-SJC/CT 64V4C016*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10G(BEI/CT-SJC/CT 64V4C017*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/洛杉矶F1-美国/洛杉矶F7-10GE(10GE9003IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_LAX570",
+            "stationz_name": "Los Angeles,CA(LAX570)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C017*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C021*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C020*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-新加坡F4-10G(GZU/CT-SNG/CT 64V4C001*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(LDN/CT-SHI/CT 64V4C006*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C032*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C029*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C033*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X3-洛杉矶F2-100G(SHI/CT-LAX/CT 100G004*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X3-圣何塞F2-100G(SHI/CT-SJC/CT 100G004*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海C6-东京F1-100G(100G0008IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-东京F1-10G(SHI/CT-TOK/CT 64V4C016*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-东京F2-10G(SHI/CT-TOK/CT 64V4C018*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-东京F2-10G(SHI/CT-TOK/CT 64V4C019*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-东京F2-10G(SHI/CT-TOK/CT 64V4C021*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X3-法兰克福F1-100G(SHI/CT-FRK/CT 100G001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C032*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-东京F2-10G(SHI/CT-TOK/CT 64V4C017*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-东京F2-10G(SHI/CT-TOK/CT 64V4C020*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-东京F2-10G(SHI/CT-TOK/CT 64V4C022*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C003*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-新加坡F3-10G(SHI/CT-SNG/CT 64V4C011*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-新加坡F4-10G(SHI/CT-SNG/CT 64V4C012*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C026*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/圣何塞F1-美国/华盛顿F1-10G(US201700002262)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/圣何塞F2-美国/华盛顿F1-10G(US201700002264)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "法兰克福F1-法兰克福F2-GE(法兰克福/INT-ANC/FRK/INT-ANC/GE9001)",
+            "stationa_code": "FRF_Interxion_POP1",
+            "stationa_name": "Frankfurt(Interxion / POP1)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "法兰克福F1-伦敦F1-GE(FRK/CTEUR-LDN/CTEUR GE001)",
+            "stationa_code": "FRF_Interxion_POP1",
+            "stationa_name": "Frankfurt(Interxion / POP1)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "荷兰/阿姆斯特丹F1-德国/法兰克福F2-10G(Amsterdam/CTEUR-FRK/CTEUR 64V4C001)",
+            "stationa_code": "AMS",
+            "stationa_name": "Amsterdam",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "日本/东京F1-日本/东京F2-10G(TOK/CT-TOK/CT 64V4C003*IP)",
+            "stationa_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationa_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C033*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C026*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-阿姆斯特丹F1-10G(AMS/CT-GZU/CT 64V4C002*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C020*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-香港F4-10G(GZU/CT-HKG/CT 64V4C010*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-香港F1-10G(GZU/CT-HKG/CT 64V4C012*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C010*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C017*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "悉尼F1-香港F1-10G(HKG/CT-SDY/CT EP009*IP)",
+            "stationa_code": "SYD",
+            "stationa_name": "Sydney",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X4-圣何塞F1-100G(GZU/CT-SJC/CT 100G005*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "圣何塞F1-华盛顿F1-10G(SJC/CTUSA-WDC/CTUSA 64V4C003)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/华盛顿F1-英国/伦敦F1-10G(LDN/CTEUR-WDC/CTUSA 64V4C003*IP)",
+            "stationa_code": "WAS_EQ DC2",
+            "stationa_name": "Washington,DC（Equinix DC2)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F1-华盛顿F1-10G(LAX/CTUSA-WDC/CTUSA 64V4C004)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/洛杉矶F1-美国/洛杉矶F7-10G-1",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_LAX570",
+            "stationz_name": "Los Angeles,CA(LAX570)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/洛杉矶F1-美国/洛杉矶F7-10GE(10GE9002IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_LAX570",
+            "stationz_name": "Los Angeles,CA(LAX570)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F1-迈阿密F1-10G(LAX/CTUSA-MIA/CTUSA 64V4C005)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "MIA",
+            "stationz_name": "Miami,FL"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F1-圣何塞F1-10GE(LAX/CTUSA-SJC/CTUSA 64V4C013)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/洛杉矶F1-美国/圣何塞F1-10GE-1",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F2-洛杉矶F7-10G-2",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_LAX570",
+            "stationz_name": "Los Angeles,CA(LAX570)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F2-洛杉矶F7-10GE(洛杉矶/未知-未知/10GE9001IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_LAX570",
+            "stationz_name": "Los Angeles,CA(LAX570)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F2-洛杉矶F7-10GE(洛杉矶/未知-未知/10GE9004IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_LAX570",
+            "stationz_name": "Los Angeles,CA(LAX570)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F2-圣何塞F2-10G(LAX/CTUSA-SJC/CTUSA 64V4C014)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F2-圣何塞F2-10GE-1",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-阿姆斯特丹F1-10G(AMS/CT-BEI/CT 64V4C003*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-阿姆斯特丹F1-10G(AMS/CT-BEI/CT 64V4C005*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-新加坡F4-10G(SHI/CT-SNG/CT 64V4C007*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-香港F1-10G(GZU/CT-HKG/CT 64V4C013*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-香港F4-10G(GZU/CT-HKG/CT 64V4C011*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-法兰克福F1-10G(FRK/CT-GZU/CT 64V4C003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-法兰克福F1-10G(FRK/CT-GZU/CT 64V4C004*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C018*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C019*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C025*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C001*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C002*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C005*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C010*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C013*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C022*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C018*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C019*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C002*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C005*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C011*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-香港F1-10G(GZU/CT-HKG/CT 64V4C008*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C001*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-法兰克福F2-10G(FRK/CT-GZU/CT 64V4C002)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-法兰克福F2-10G(FRK/CTEUR-GZU/CT 64V4C001)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C021*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C022*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C023*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C024*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C020*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C006*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C009*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C012*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州/同和X4-美国/洛杉矶F1-10G(GZU/CT-LAX/CT64V4C007)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C021*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C012*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C013*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C014*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C015*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C016*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州/同和X4-美国/圣何塞F1-10G(GZU/CT-SJC/CT64V4C008)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州/同和X4-美国/圣何塞F1-10G(GZU/CT-SJC/CT64V4C009*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-香港F4-10G(GZU/CT-HKG/CT 64V4C009*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-新加坡F3-10GE(GZU/CT-SNG/CT 64V4C002*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-伦敦F1-10G(GZU/CT-LDN/CT 64V4C002*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-伦敦F1-10G(GZU/CT-LDN/CT 64V4C004*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-法兰克福F2-10G(FRK/CT-SHI/CT 64V4C010*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-洛杉矶F2-10G(BEI/CT-LAX/CT 64V4C022*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-法兰克福F2-10G(BEI/CT-FRK/CT 64V4C007*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-洛杉矶F2-10G(BEI/CT-LAX/CT 64V4C023*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-洛杉矶F2-10GE(BEI/CT-LAX/CT 64V4C024*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X3-洛杉矶F2-100G(GZU/CT-LAX/CT 100G003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C007*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C011*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/圣何塞F1-美洲/纽约F1-10G(SJC/EQU-HUD/NYC10GE9004*IP)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_Zayo",
+            "stationz_name": "New York,NY(Zayo)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/希尔斯伯勒F1-美洲/华盛顿F1-10G(HB/HB-EQ2/WAS10GE9001*IP)",
+            "stationa_code": "HIL",
+            "stationa_name": "Hillsboro,OR",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(SHI/CT-LDN/CT 64V4C011*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X4-洛杉矶F1-100G(LAX/CT-SHI/CT 100G004*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/希尔斯伯勒F1-美洲/纽约F1-10G(HB/HB-HUD/NYC10GE9001*IP)",
+            "stationa_code": "HIL",
+            "stationa_name": "Hillsboro,OR",
+            "stationz_code": "WAS_Zayo",
+            "stationz_name": "New York,NY(Zayo)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-阿姆斯特丹F1-10G(AMS/CT-BEI/CT 64V4C004*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-法兰克福F1-10G(BEI/CT-FRK/CT 64V4C009*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/圣何塞F1-美国/华盛顿F1-10GE(SJC/EQU-EQ2/WAS10GE9004*IP)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/圣何塞F2-美国/华盛顿F1-10GE(SJC/EQU-EQ2/WAS10GE9001IP)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/圣何塞F2-美国/华盛顿F1-10GE(SJC/EQU-EQ2/WAS10GE9002IP)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/圣何塞F2-美国/华盛顿F1-10GE(SJC/EQU-EQ2/WAS10GE9003IP)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-阿姆斯特丹F1-10G(AMS/CT-BEI/CT 64V4C006*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/华盛顿F1-美洲/洛杉矶F1-10G(LAX/OW-EQ2/WAS10GE9003*IP)",
+            "stationa_code": "WAS_EQ DC2",
+            "stationa_name": "Washington,DC（Equinix DC2)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/华盛顿F1-美洲/洛杉矶F2-10G(LAX/OW-EQ2/WAS10GE9001*IP)",
+            "stationa_code": "WAS_EQ DC2",
+            "stationa_name": "Washington,DC（Equinix DC2)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/华盛顿F1-美洲/洛杉矶F2-10G(LAX/OW-EQ2/WAS10GE9002*IP)",
+            "stationa_code": "WAS_EQ DC2",
+            "stationa_name": "Washington,DC（Equinix DC2)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/洛杉矶F1-美洲/纽约F1-10G(NYC/HUD-OW/LAX10GE9003*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "WAS_Zayo",
+            "stationz_name": "New York,NY(Zayo)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/洛杉矶F1-美洲/纽约F1-10G(NYC/HUD-OW/LAX10GE9004*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "WAS_Zayo",
+            "stationz_name": "New York,NY(Zayo)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/纽约F1-美洲/洛杉矶F1-10G(NYC/HUD-OW/LAX10GE9002IP)",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/纽约F1-美洲/洛杉矶F2-10G(NYC/HUD-OW/LAX10GE9001IP)",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/纽约F1-美洲/圣何塞F1-10G(SJC/EQU-HUD/NYC10GE9001*IP)",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/纽约F1-美洲/圣何塞F2-10G(SJC/EQU-HUD/NYC10GE9002*IP)",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/圣何塞F1-美洲/纽约F1-10G(SJC/EQU-HUD/NYC10GE9003*IP)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_Zayo",
+            "stationz_name": "New York,NY(Zayo)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港/火炭/F2-香港/将军澳/W16-10GE(FT/CTHK-TKO/CTHK EP001*IP)",
+            "stationa_code": "HKG_Shatian _Mega_TWO",
+            "stationa_name": "Hong Kong(Shatian / Mega TWO)",
+            "stationz_code": "HKG_TKO",
+            "stationz_name": "Hong Kong(TKO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-香港F1-10G(HKG/CT-SHI/CT 64V4C002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-香港F1-10G(HKG/CT-SHI/CT 64V4C011*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(LDN/CT-SHI/CT 64V4C002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-法兰克福F2-10G(FRK/CTEUR-SHI/CT 64V4C001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C013*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CTUSA-SHI/CT 64V4C008*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CTUSA-SHI/CT 64V4C009*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CTUSA-SHI/CT 64V4C010*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C020*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C021*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C022*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C026*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C027*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海/横浜X4-美国/圣何塞F1-10G(SHI/CT-SJC/CT 64V4C007*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C008*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C009*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C012*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C006*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-香港F4-10G(HKG/CT-SHI/CT 64V4C001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-香港F4-10G(HKG/CT-SHI/CT 64V4C012*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-新加坡F3-10G(SHI/CT-SNG/CT 64V4C006*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-伦敦F1-10G(SHI/CT-LDN/CTEUR 64V4C004*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-伦敦F1-10G(SHI/CT-LDN/CTEUR 64V4C002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "纽约F1-洛杉矶F2-10GE(LAX/CTUSA-NYC/CTUSA 64V4C003*IP)",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F4-香港F2-10GE(香港/柴湾-火炭/FT/CTHK-MIA/CTHK EP064*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "HKG_Shatian _Mega_TWO",
+            "stationz_name": "Hong Kong(Shatian / Mega TWO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-法兰克福F1-10G(FRK/CT-SHI/CT 64V4C015*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-法兰克福F2-10G(FRK/CT-GZU/CT 64V4C012*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-法兰克福F1-10G(FRK/CT-GZU/CT 64V4C013*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-法兰克福F1-10G(FRK/CT-GZU/CT 64V4C014*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-法兰克福F2-10G(FRK/CT-GZU/CT 64V4C015*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-法兰克福F2-10G(FRK/CT-GZU/CT 64V4C016*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "悉尼F1-东京F1-7.5G(SYD/CT-TOK/CT EP002*IP)",
+            "stationa_code": "SYD",
+            "stationa_name": "Sydney",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(SHI/CT-LDN/CT 64V4C012*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10GE(BEI/CT-SJC/CT 64V4C018*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "纽约F1-洛杉矶F2",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-法兰克福F1-10G(FRK/CT-SHI/CT 64V4C007*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-法兰克福F1-10G(FRK/CT-SHI/CT 64V4C008*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-新加坡F4-10G(SHI/CT-SNG/CT 64V4C005*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(SHI/CT-LDN/CTEUR 64V4C005*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F4-洛杉矶F2-10G(HKG/CT-LAX/CT 64V4C023*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C031*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X3-香港F1-100G(HKG/CT-SHI/CT 100G001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C011*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C014*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港/柴湾F1-日本/东京F1-10GE(HKG/CT-TOK/CT 64V4C008*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "东京F1-香港F4-10G(HKG/CT-TOK/CT 64V4C009*IP)",
+            "stationa_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationa_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10GE(BEI/CT-SJC/CT 64V4C022*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "阿联酋/杜拜F1-新加坡/singapore(Global)F3-1G(DXB/CT-SNG/CT EP001*IP)",
+            "stationa_code": "DXB",
+            "stationa_name": "Dubai",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "杜拜F1-伦敦F1-1G(Dubai/CT-LDN/CT VC3S001*IP)",
+            "stationa_code": "DXB",
+            "stationa_name": "Dubai",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-法兰克福F2-10G(FRK/CT-SHI/CT 64V4C014*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "新加坡F3-法兰克福F2-10GE(FRK/CT-SNG/CT 64V4C008*IP)",
+            "stationa_code": "Tuas",
+            "stationa_name": "Tuas",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "新加坡F4-法兰克福F1-10GE(FRK/CT-SNG/CT 64V4C006*IP)",
+            "stationa_code": "Katong",
+            "stationa_name": "Katong",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F4-圣何塞F2-10G(HKG/CT-SJC/CT 64V4C012*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-新加坡F4-10G(GZU/CT-SNG/CT 64V4C008*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "德国/法兰克福F2-德国/法兰克福G1-GE_1",
+            "stationa_code": "FRF_Ancotel_POP2",
+            "stationa_name": "Frankfurt(Ancotel / POP2)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-阿姆斯特丹F1-10G(AMS/CT-GZU/CT 64V4C006*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X4-香港F4-100G(HKG/CT-SHI/CT 100G002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(SHI/CT-LDN/CT 64V4C006*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(SHI/CT-LDN/CT 64V4C007*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-香港F2-10G(HKG/CT-SHI/CT 64V4C023*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Shatian _Mega_TWO",
+            "stationz_name": "Hong Kong(Shatian / Mega TWO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-香港F2-10G(HKG/CT-SHI/CT 64V4C024*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Shatian _Mega_TWO",
+            "stationz_name": "Hong Kong(Shatian / Mega TWO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京/大郊亭I1-香港/柴湾F1-10G(10GE9310IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10GE(BEI/CT-SJC/CT 64V4C020*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-圣何塞F2-10GE(BEI/CT-SJC/CT 64V4C021*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C028*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X3-圣何塞F2-100G(SHI/CT-SJC/CT 100G002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F2-洛杉矶F7-10G-1",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_LAX570",
+            "stationz_name": "Los Angeles,CA(LAX570)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-法兰克福F1-10G(FRK/CT-GZU/CT 64V4C008*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C034*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C030*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C031*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-东京F1-10G(SHI/CT-TOK/CT 64V4C016*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-东京F1-10G(SHI/CT-TOK/CT 64V4C015*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-法兰克福F1-10G(FRK/CT-GZU/CT 64V4C007*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C035*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C024*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C031*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "肯尼亚/内罗毕F2-新加坡/singapore(Global)F3-GE(Nairobi/CTEUR-SNG/CTHKI EP002*IP)",
+            "stationa_code": "NBO_2",
+            "stationa_name": "Nairobi",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "新加坡F3-香港F4-10G(HKG/CT-SNG/CT 64V4C045)",
+            "stationa_code": "Tuas",
+            "stationa_name": "Tuas",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州/同和X3-香港/柴湾F4-100G(GZU/CT-HKG/CT 100G002*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-香港F2-10G(GZU/CT-HKG/CT 64V4C023*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Shatian _Mega_TWO",
+            "stationz_name": "Hong Kong(Shatian / Mega TWO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-香港F2-10G(GZU/CT-HKG/CT 64V4C024*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Shatian _Mega_TWO",
+            "stationz_name": "Hong Kong(Shatian / Mega TWO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港/柴湾F1-香港/亚太/新加坡F4-10GE(HKG/CT-SNG/CT 64V4C046*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-法兰克福F2-10G(FRK/CT-GZU/CT 64V4C006*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-圣何塞F1-10G(GZU/CT-SJC/CT 64V4C030*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C027*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C028*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X4-圣何塞F1-100G(SHI/CT-SJC/CT 100G005*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C034*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-洛杉矶F2-10G(LAX/CT-SHI/CT 64V4C035*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C038*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-香港F1-10G(HKG/CT-SHI/CT 64V4C015)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-香港F1-10G(HKG/CT-SHI/CT 64V4C019)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C033*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-圣何塞F1-10G(SHI/CT-SJC/CT 64V4C037*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-香港F4-10G(HKG/CT-SHI/CT 64V4C017*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-香港F4-10G(HKG/CT-SHI/CT 64V4C020*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-洛杉矶F1-10G(GZU/CT-LAX/CT 64V4C029*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-洛杉矶F1-10G(LAX/CT-SHI/CT 64V4C032*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/洛杉矶F1-美国/洛杉矶F7-10G-2",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "LAX_LAX570",
+            "stationz_name": "Los Angeles,CA(LAX570)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-法兰克福F1-10G(BEI/CT-FRK/CT 64V4C006*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C011*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "阿姆斯特丹F1-伦敦G1-GE(Amsterdam/CTEUR-LDN/CTEUR EP002*IP)",
+            "stationa_code": "AMS",
+            "stationa_name": "Amsterdam",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(SHI/CT-LDN/CT 64V4C009*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(SHI/CT-LDN/CT 64V4C010*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-伦敦F1-10G(SHI/CT-LDN/CT 64V4C013*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-法兰克福F1-10G(FRK/CT-SHI/CT 64V4C012*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-法兰克福F2-10G(FRK/CT-SHI/CT 64V4C013*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X3-圣何塞F2-100G(SHI/CT-SJC/CT 100G003*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C010*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C012*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F1-迈阿密F1-10G(LAX/CTUSA-MIA/CTUSA 10GE9004*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "MIA",
+            "stationz_name": "Miami,FL"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "纽约F1-华盛顿F1-10GE(NYC/CTUSA-WAS/CTUSA 10GE9001)",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "纽约F1-迈阿密F2-10GE(NYC/CTUSA-MIA/CTUSA 10GE9001*IP)",
+            "stationa_code": "WAS_Zayo",
+            "stationa_name": "New York,NY(Zayo)",
+            "stationz_code": "MIA",
+            "stationz_name": "Miami,FL"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "希尔斯伯勒F1-洛杉矶F2-10GE(HB/CTUSA-LAX/CTUSA 10GE9001*IP)",
+            "stationa_code": "HIL",
+            "stationa_name": "Hillsboro,OR",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "希尔斯伯勒F1-纽约F1-10GE(HB/CTUSA-NYC/CTUSA 10GE9001*IP)",
+            "stationa_code": "HIL",
+            "stationa_name": "Hillsboro,OR",
+            "stationz_code": "WAS_Zayo",
+            "stationz_name": "New York,NY(Zayo)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "希尔斯伯勒F1-圣何塞F2-10GE(HB/CTUSA-SJC/CTUSA 10GE9001*IP)",
+            "stationa_code": "HIL",
+            "stationa_name": "Hillsboro,OR",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-法兰克福F2-10G(FRK/CT-SHI/CT 64V4C011*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-香港F1-10G(HKG/CT-SHI/CT 64V4C006*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-香港F4-10G(HKG/CT-SHI/CT 64V4C005*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "澳大利亚/悉尼F1-日本/东京F2-10G(SYD/CT-TOK/CT 64V4C003*IP)",
+            "stationa_code": "SYD",
+            "stationa_name": "Sydney",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "肯尼亚/内罗毕F2-新加坡/singapore(Global)F3-500M(Nairobi/CT-SNG/CT GE004*IP)",
+            "stationa_code": "NBO_2",
+            "stationa_name": "Nairobi",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F1-迈阿密F1-10G(LAX/CTUSA-MIA/CTUSA 10GE9001*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "MIA",
+            "stationz_name": "Miami,FL"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-迈阿密F2-1244M",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "MIA",
+            "stationz_name": "Miami,FL"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F2-迈阿密F2-10GE(LAX/CTUSA-MIA/CTUSA 10GE9003*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "MIA",
+            "stationz_name": "Miami,FL"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "希尔斯伯勒F1-华盛顿F1-10GE(HB/CTUSA-WAS/CTUSA 10GE9001*IP)",
+            "stationa_code": "HIL",
+            "stationa_name": "Hillsboro,OR",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-新加坡F4-10G(GZU/CT-SNG/CT 64V4C003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X4-香港F4-100G(GZU/CT-HKG/CT 100G004*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "希尔斯伯勒F1-洛杉矶F1-64V4C003*IP)",
+            "stationa_code": "HIL",
+            "stationa_name": "Hillsboro,OR",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/希尔斯伯勒F1-美国/圣何塞F1-10G(Hillsboro/CTUSA-SJC/CTUSA 64V4C003*IP",
+            "stationa_code": "HIL",
+            "stationa_name": "Hillsboro,OR",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-东京F1-10G(SHI/CT-TOK/CT 64V4C010*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-东京F1-10G(SHI/CT-TOK/CT 64V4C012*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-东京F1-10G(SHI/CT-TOK/CT 64V4C013*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C028*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X4-圣何塞F1-100G(GZU/CT-SJC/CT 100G003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-圣何塞F2-10G(SHI/CT-SJC/CT 64V4C039*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X3-圣何塞F2-100G(GZU/CT-SJC/CT 100G006*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C018*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-阿姆斯特丹F1-10G(AMS/CT-GZU/CT 64V4C005*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-伦敦F1-10G(BEI/CT-LDN/CT 64V4C003*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-洛杉矶F1-10G(BEI/CT-LAX/CT 64V4C019*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X3-洛杉矶F2-100G(GZU/CT-LAX/CT 100G001*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "洛杉矶F2-迈阿密F2-10GE(LAX/CTUSA-MIA/CTUSA 64V4C006*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "MIA",
+            "stationz_name": "Miami,FL"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/迈阿密F2-美洲/纽约F1-10G(MIA/CTUSA-NYC/CTUSA 64V4C002*IP)",
+            "stationa_code": "MIA",
+            "stationa_name": "Miami,FL",
+            "stationz_code": "WAS_Zayo",
+            "stationz_name": "New York,NY(Zayo)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-香港F1-10G(HKG/CT-SHI/CT 64V4C018)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-洛杉矶F2-10G(BEI/CT-LAX/CT 64V4C010*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "法兰克福F1-伦敦F1-10G(FRK/CTEUR-LDN/CTEUR 64V4C013)",
+            "stationa_code": "FRF_Interxion_POP1",
+            "stationa_name": "Frankfurt(Interxion / POP1)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "法兰克福F1-内罗毕F2-1.25G(Nairobi/CT-FRK/CT GE001*ELS)",
+            "stationa_code": "FRF_Interxion_POP1",
+            "stationa_name": "Frankfurt(Interxion / POP1)",
+            "stationz_code": "NBO_2",
+            "stationz_name": "Nairobi"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "新加坡F3-新加坡F4-10GE(新加坡/singapore(Global)-ARC/SNG/CTHKI-SNG/CTHKI 64V4C010)",
+            "stationa_code": "Tuas",
+            "stationa_name": "Tuas",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "新加坡F3-新加坡F4-GE(新加坡/singapore(Global)-ARC/4103/EQ-4105/GS GE007*IP)",
+            "stationa_code": "Tuas",
+            "stationa_name": "Tuas",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "新加坡F3-新加坡G1-GE(新加坡/singapore(Global)-ARC/SNG/CTHKI-SNG/CTHKI EP012)",
+            "stationa_code": "Tuas",
+            "stationa_name": "Tuas",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-香港F1-10G(BEI/CT-HKG/CT 64V4C005*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-圣何塞F2-10G(GZU/CT-SJC/CT 64V4C023*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-广州X4-10G(10GE2311IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "GuangZhou",
+            "stationz_name": "GuangZhou(广州)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X4-上海X4-10G(10GE2345IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "ShangHai",
+            "stationz_name": "ShangHai(上海)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-新加坡F3-10GE(GZU/CT-SNG/CT 64V4C010*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "美国/洛杉矶F1-澳大利亚/悉尼F1-GE(LAX/CT-SYD/CT EP002*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "SYD",
+            "stationz_name": "Sydney"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "美国/洛杉矶F2-澳大利亚/悉尼F1-GE(LAX/CT-SYD/CT EP003*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "SYD",
+            "stationz_name": "Sydney"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-广州X3-10G(10GE0094IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "GuangZhou",
+            "stationz_name": "GuangZhou(广州)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/华盛顿F1-德国/法兰克福F2-10G(FRK/CTEUR-WDC/CTUSA 64V4C003*IP)",
+            "stationa_code": "WAS_EQ DC2",
+            "stationa_name": "Washington,DC（Equinix DC2)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美洲/华盛顿F1-美洲/洛杉矶F2-10GLAX/CTUSA-WDC/CTUSA 64V4C005*IP)",
+            "stationa_code": "WAS_EQ DC2",
+            "stationa_name": "Washington,DC（Equinix DC2)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "德国/法兰克福F2-德国/法兰克福F4-10GE(FRK/ANC-EQU/10GE9001*IP)",
+            "stationa_code": "FRF_Ancotel_POP2",
+            "stationa_name": "Frankfurt(Ancotel / POP2)",
+            "stationz_code": "FRF_EQ_POP3",
+            "stationz_name": "Frankfurt(Equinix / POP3)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "德国/法兰克福F2-德国/法兰克福F4-10GE(FRK/ANC-EQU/10GE9002*IP)",
+            "stationa_code": "FRF_Ancotel_POP2",
+            "stationa_name": "Frankfurt(Ancotel / POP2)",
+            "stationz_code": "FRF_EQ_POP3",
+            "stationz_name": "Frankfurt(Equinix / POP3)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "东京F1-东京F2-10G(东京/东京-Equinix/TOK/CT-TOK/CT 64V4C002*IP)",
+            "stationa_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationa_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "东京F1-东京F2-10G(东京/东京-Equinix/TOK/CT-TOK/CT 64V4C004*IP)",
+            "stationa_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationa_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "东京F1-东京F2-10G(东京/东京-Equinix/TOK/CT-TOK/CT 64V4C005*IP)",
+            "stationa_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationa_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "东京F1-东京F2-10G(东京/东京-Equinix/TOK/CT-TOK/CT 64V4C006*IP)",
+            "stationa_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationa_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )",
+            "stationz_code": "TYO_Equinix_TY2",
+            "stationz_name": "Tokyo(Equinix TY2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "东京F2-圣何塞F2-10G(TOK/CT-SJC/CT 64V4C003*IP)",
+            "stationa_code": "TYO_Equinix_TY2",
+            "stationa_name": "Tokyo(Equinix TY2)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-洛杉矶F2-10G(GZU/CT-LAX/CT 64V4C037*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "荷兰/阿姆斯特丹F1-新加坡/singapore(Global)F3-10GE(AMS/CT-SNG/CT 64V4C001*IP)",
+            "stationa_code": "AMS",
+            "stationa_name": "Amsterdam",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "北京X3-香港F1-100G(BEI/CT-HKG/CT 100G001*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-伦敦F1-10G(BEI/CT-LDN/CT 64V4C004*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X4-洛杉矶F1-100G(GZU/CT-LAX/CT 100G004*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C006*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "迈阿密F1-华盛顿F1-10G(MIA/CTUSA-SJC/CTUSA 64V4C004)",
+            "stationa_code": "MIA",
+            "stationa_name": "Miami,FL",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/圣何塞F2-美国/华盛顿F1-10G(SJC/CTUSA-WDC/CTUSA 64V4C004*IP)",
+            "stationa_code": "SJC_EQ",
+            "stationa_name": "San Jose,CA(Equinix)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "美国/洛杉矶F2-美国/迈阿密F2-10GE(LAX/CTUSA-MIA/CTUSA 10GE9002*IP)",
+            "stationa_code": "LAX_OW_LAX803",
+            "stationa_name": "Los Angeles,CA(One Wilshire / LAX803)",
+            "stationz_code": "MIA",
+            "stationz_name": "Miami,FL"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F1-香港F2-10GE(香港/柴湾-火炭/HKG/CTHKI-HKG/CTHKI 64V4C016*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "HKG_Shatian _Mega_TWO",
+            "stationz_name": "Hong Kong(Shatian / Mega TWO)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "新加坡/ARCF4-香港/柴湾F1-10G(HKG/CT-SNG/CT 64V4C046*IP)",
+            "stationa_code": "Katong",
+            "stationa_name": "Katong",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "荷兰/阿姆斯特丹F1-新加坡/singapore(Global)F3-10GE(AMS/CT-SNG/CT 64V4C002*IP)",
+            "stationa_code": "AMS",
+            "stationa_name": "Amsterdam",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "亚太/新加坡F3-欧洲/法兰克福F2-10G(FRK/CT-SNG/CT 64V4C001*IP)",
+            "stationa_code": "Tuas",
+            "stationa_name": "Tuas",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-新加坡F4-10G(SHI/CT-SNG/CT 64V4C009*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "Katong",
+            "stationz_name": "Katong"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-新加坡F3-10G(SHI/CT-SNG/CT 64V4C010*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X3-新加坡F3-10G(SHI/CT-SNG/CT 64V4C008*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "Tuas",
+            "stationz_name": "Tuas"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X4-香港F4-100G(HKG/CT-SHI/CT 100G004*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-阿姆斯特丹F1-10G(AMS/CT-GZU/CT 64V4C003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-阿姆斯特丹F1-10G(AMS/CT-GZU/CT 64V4C004*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C004*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X4-洛杉矶F1-100G(SHI/CT-LAX/CT 100G003*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X4-香港F1-100G(GZU/CT-HKG/CT 100G001*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "北京X3-伦敦F1-10G(BEI/CT-LDN/CT 64V4C005*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "北京X3-洛杉矶F2-100GE(BEI/CT-LAX/CTUSA 100G002*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "北京X4-圣何塞F1-100G(BEI/CT-SJC/CT 100G002*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "SJC_EQ",
+            "stationz_name": "San Jose,CA(Equinix)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "北京X4-希尔斯伯勒F1-100G(BEI/CT-Hillsboro/CT 100GE001*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X3-法兰克福F1-100G(FRK/CT-GZU/CT 100G002*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-法兰克福F1-10G(FRK/CT-GZU/CT 64V4C009*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "FRF_Interxion_POP1",
+            "stationz_name": "Frankfurt(Interxion / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C005*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C006*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X3-洛杉矶F2-100G(GZU/CT-LAX/CT 100G006*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "广州X4-洛杉矶F1-100G(GZU/CT-LAX/CT 100G005*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C001*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C002*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C003*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C004*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C005*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C006*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C007*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C008*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C009*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X4-希尔斯伯勒F1-10G(GZU/CT-Hillsboro/CT 64V4C010*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "HIL",
+            "stationz_name": "Hillsboro,OR"
+        },
+        {
+            "bandwidth": "1000000",
+            "circuit_name": "法兰克福F1-法兰克福F2-GE(法兰克福/INT-ANC/FRK/INT-ANC/GE9001)",
+            "stationa_code": "FRF_Interxion_POP1",
+            "stationa_name": "Frankfurt(Interxion / POP1)",
+            "stationz_code": "FRF_Ancotel_POP2",
+            "stationz_name": "Frankfurt(Ancotel / POP2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-东京F1-10G(SHI/CT-TOK/CT 64V4C014*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "TYO_Chuo_Center_1F _Tokyo_1F",
+            "stationz_name": "Tokyo(Chuo Center 1F / @Tokyo 1F )"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "北京X4-香港F4-100G(BEI/CT-HKG/CT 100G002*IP)",
+            "stationa_code": "BeiJing",
+            "stationa_name": "BeiJing(北京)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X3-洛杉矶F2-100G(SHI/CT-LAX/CT 100G002*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X3-香港F1-100G(HKG/CT-SHI/CT 100G003*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "HKG_Chai Wan",
+            "stationz_name": "Hong Kong(Chai Wan)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "香港F4-洛杉矶F2-10G(HKG/CT-LAX/CT 64V4C027*IP)",
+            "stationa_code": "HKG_Chai Wan",
+            "stationa_name": "Hong Kong(Chai Wan)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "100000000",
+            "circuit_name": "上海X4-洛杉矶F1-100G(SHI/CT-LAX/CT 100G001*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "LAX_OW_LAX803",
+            "stationz_name": "Los Angeles,CA(One Wilshire / LAX803)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "法兰克福F2-华盛顿F1-10GE(FRK/CTEUR-WDC/CTUSA 64V4C003*IP)",
+            "stationa_code": "FRF_Ancotel_POP2",
+            "stationa_name": "Frankfurt(Ancotel / POP2)",
+            "stationz_code": "WAS_EQ DC2",
+            "stationz_name": "Washington,DC（Equinix DC2)"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "上海X4-阿姆斯特丹F1-10G(AMS/CT-SHI/CT 64V4C005*IP)",
+            "stationa_code": "ShangHai",
+            "stationa_name": "ShangHai(上海)",
+            "stationz_code": "AMS",
+            "stationz_name": "Amsterdam"
+        },
+        {
+            "bandwidth": "10000000",
+            "circuit_name": "广州X3-伦敦F1-10G(GZU/CT-LDN/CT 64V4C008*IP)",
+            "stationa_code": "GuangZhou",
+            "stationa_name": "GuangZhou(广州)",
+            "stationz_code": "LON_Harbour_Exchange_POP1",
+            "stationz_name": "London (Harbour Exchange / POP1)"
+        }
+    ]
+}

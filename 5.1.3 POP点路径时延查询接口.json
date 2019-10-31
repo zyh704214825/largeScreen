@@ -1,0 +1,2054 @@
+{
+    "code": 0,
+    "message": "成功",
+    "data": [
+        {
+            "solution": "Hong Kong POP-SJC+UNITY-San Jose POP",
+            "routedetails": "Hong Kong POP-Chung Hom Kok CLS-SJC-Chikura CLS-UNITY-Redondo Beach CLS-Los Angeles POP-San Jose POP",
+            "slalatency": "161.0",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "SJC+UNITY"
+        },
+        {
+            "solution": "Hong Kong POP-Shanghai-TPE-San Jose POP",
+            "routedetails": "Hong Kong POP-HK/SZ Border-Shanghai ITMC-Chongming CLS-TPE-Hillsboro CLS-America Backhaul-San Jose POP",
+            "slalatency": "158.0",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "Hong Kong POP-SJC+JUS-San Jose POP",
+            "routedetails": "Hong Kong POP-Chung Hom Kok CLS–SJC–Chikura CLS-Shima CLS–JUS–Makaha CLS–Morro Bay CLS-America Backhaul-San Jose POP",
+            "slalatency": "178.0",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "SJC+JUS"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-San Jose POP (UN)No.1",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL(NACS)–TOUCHENG CLS–WADA CLS–MARUYAMA–EMI CLS–TGN-P(North)-Nedonna Beach–HILLSBORO CLS-Port land–Santa Clara–San Jose POP",
+            "slalatency": "162.0",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-San Jose POP (UN)No.2",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL(NACS)–TOUCHENG CLS–WADA CLS–MARUYAMA–EMI CLS–Toyohashi CLS-TGN-P(South)-Redondo Beach CLS–Los Angeles POP–Santa Clara–San Jose POP",
+            "slalatency": "194.0",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-San Jose POP (UN)No.3",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL(FWACS)–Busan CLS–WADA CLS–MARUYAMA–EMI CLS–TGN-P(North)-Nedonna Beach–HILLSBORO CLS-Port land–Santa Clara–San Jose POP",
+            "slalatency": "165.0",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-San Jose POP (UN)No.4",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL(FWACS)–Busan CLS–WADA CLS–MARUYAMA–EMI CLS–Toyohashi CLS-TGN-P(South)-Redondo Beach CLS–Los Angeles POP–Santa Clara–San Jose POP",
+            "slalatency": "197.0",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-San Jose POP (P)",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL–WADA CLS–EMI CLS–TGN-P-HILLSBORO CLS–San Jose POP",
+            "slalatency": "176.0",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "LA+SJHong Kong POP-Shantou-CUCN-San Jose POP",
+            "routedetails": "Hong Kong POP-HK/SZ Border-Shantou CLS-CUCN-San Luis Obispo CLS-America Backhaul-Los Angeles POP-San Jose POP",
+            "slalatency": "152.0",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "CUCN"
+        },
+        {
+            "solution": "Hong Kong POP-Shantou-CUCN-Los Angeles POP",
+            "routedetails": "Hong Kong POP-HK/SZ Border-Shantou CLS-CUCN-San Luis Obispo CLS-America Backhaul-Los Angeles POP",
+            "slalatency": "142.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "CUCN"
+        },
+        {
+            "solution": "Hong Kong POP-Chongming CLS-TPE-Hillsboro CLS-Los Angeles POP",
+            "routedetails": "Hong Kong POP-HK/SZ Border-Chongming CLS-TPE-Hillsboro CLS-America Backhaul-Los Angeles POP",
+            "slalatency": "163.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "Hong Kong POP-SJC+UNITY-Los Angeles POP",
+            "routedetails": "Hong Kong POP-Chung Hom Kok CLS-SJC-Chikura CLS-UNITY-Redondo Beach CLS-Los Angeles POP",
+            "slalatency": "143.30",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "SJC+UNITY"
+        },
+        {
+            "solution": "Hong Kong POP-SJC+JUS-Los Angeles POP",
+            "routedetails": "Hong Kong POP-Chung Hom Kok CLS–SJC–Chikura CLS-Shima CLS–JUS–Makaha CLS–Morro Bay CLS-America Backhaul-Los Angeles POP",
+            "slalatency": "178.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "SJC+JUS"
+        },
+        {
+            "solution": "Hong Kong POP-Shantou CLS-SJC+JUS-Los Angeles POP",
+            "routedetails": "Hong Kong POP-HK/SZ Border-Shantou CLS-SJC-Chikura CLS-Shima CLS-JUS-Makaha CLS–Morro Bay CLS-America Backhaul-Los Angeles POP",
+            "slalatency": "185.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "SJC+JUS"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-Los Angeles POP (UN)No.1",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL(NACS)–TOUCHENG CLS–WADA CLS–MARUYAMA–EMI CLS–TGN-P(North)-Nedonna Beach–HILLSBORO CLS-Port land–Santa Clara–Los Angeles POP",
+            "slalatency": "173.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-Los Angeles POP (UN)No.2",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL(NACS)–TOUCHENG CLS–WADA CLS–MARUYAMA–EMI CLS–Toyohashi CLS- TGN-P(South)-Redondo Beach CLS–Los Angeles POP",
+            "slalatency": "180.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-Los Angeles POP (UN)No.3",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL(FWACS)–Busan CLS–WADA CLS–MARUYAMA–EMI CLS–TGN-P(North)-Nedonna Beach–HILLSBORO CLS-Port land–Santa Clara–Los Angeles POP",
+            "slalatency": "176.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-Los Angeles POP (UN)No.4",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL(FWACS)–Busan CLS–WADA CLS–MARUYAMA–EMI CLS–Toyohashi CLS-TGN-P(South)-Redondo Beach CLS–Los Angeles POP",
+            "slalatency": "183.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "Hong Kong POP-FNAL+TGN-P-Los Angeles POP (P)",
+            "routedetails": "Hong Kong POP–TONKFUK CLS–FNAL–WADA CLS–EMI CLS–TGN-P-HILLSBORO CLS–Los Angeles POP",
+            "slalatency": "183.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "FNAL+TGN-P"
+        },
+        {
+            "solution": "Japan POP-UNITY-San Jose POP",
+            "routedetails": "Japan POP-Chikura CLS-UNITY-Redondo Beach CLS-Los Angeles - San Jose POP",
+            "slalatency": "117.0",
+            "popa_city": "Tokyo",
+            "popz_city": "San Jose",
+            "cable_routing": "UNITY"
+        },
+        {
+            "solution": "Japan POP-UNITY-Los Angeles POP",
+            "routedetails": "Japan POP-Chikura CLS-UNITY-Redondo Beach CLS-Los Angeles POP",
+            "slalatency": "107.0",
+            "popa_city": "Tokyo",
+            "popz_city": "Los Angeles",
+            "cable_routing": "UNITY"
+        },
+        {
+            "solution": "Japan POP-PC1-Seattle POP",
+            "routedetails": "Japan POP-Agigaura CLS–PC1(North)-Harbour Pointe CLS–Seattle POP",
+            "slalatency": "85.0",
+            "popa_city": "Tokyo",
+            "popz_city": "Seattle",
+            "cable_routing": "PC1"
+        },
+        {
+            "solution": "Singapore POP-APCN2+TPE-San Jose POP",
+            "routedetails": "Singapore POP-Katong CLS-APCN2-Shantou CLS-Shanghai ITMC--Chongming CLS-TPE-Hillsboro CLS-America Backhaul-San Jose POP",
+            "slalatency": "182.0",
+            "popa_city": "Singapore",
+            "popz_city": "San Jose",
+            "cable_routing": "APCN2+TPE"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - CR2 - London POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-RUS Border(Suifenhe) - CR2 - Frankfurt -  London POP",
+            "slalatency": "250.0",
+            "popa_city": "HongKong",
+            "popz_city": "London",
+            "cable_routing": "CR2"
+        },
+        {
+            "solution": "San Jose POP - America Backbone - Miami POP",
+            "routedetails": "San Jose POP - America Backbone - Miami POP",
+            "slalatency": "66.0",
+            "popa_city": "San Jose",
+            "popz_city": "Miami",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Tuas CLS - SJC - Japan POP",
+            "routedetails": "Tuas CLS - SJC - Chikura CLS - Japan POP",
+            "slalatency": "68.0",
+            "popa_city": "Tuas",
+            "popz_city": "Tokyo",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "New York POP-Globenet-Sao Paulo ALOG POP",
+            "routedetails": "New York POP-Globenet-Sao Paulo ALOG POP",
+            "slalatency": "117.0",
+            "popa_city": "New York",
+            "popz_city": "Sao Paulo",
+            "cable_routing": "Globenet"
+        },
+        {
+            "solution": "Japan POP - ASE - Singapore POP",
+            "routedetails": "Japan POP - Maruyama CLS - ASE - Changi South CLS - Singapore POP",
+            "slalatency": "66.90",
+            "popa_city": "Tokyo",
+            "popz_city": "Singapore",
+            "cable_routing": "ASE"
+        },
+        {
+            "solution": "(Lite)Marmaris CLS - SMW3 -Tuas CLS",
+            "routedetails": "Marmaris CLS - SMW3 - Tuas CLS",
+            "slalatency": "131.0",
+            "popa_city": "Marmaris",
+            "popz_city": "Tuas",
+            "cable_routing": "SMW3"
+        },
+        {
+            "solution": "(Lite)Shima CLS - APG - Shinmaruyama CLS",
+            "routedetails": "Shima CLS - APG - Shinmaruyama CLS",
+            "slalatency": "8.6",
+            "popa_city": "Shima",
+            "popz_city": "Shin Maruyama",
+            "cable_routing": "APG"
+        },
+        {
+            "solution": "Singapore POP-SJC+UNITY-Los Angeles POP",
+            "routedetails": "Singapore POP-Tuas CLS-SJC-Chikura CLS-TY2-Chikura CLS-UNITY-Redondo Beach CLS-Los Angeles POP",
+            "slalatency": "179.0",
+            "popa_city": "Singapore",
+            "popz_city": "Los Angeles",
+            "cable_routing": "SJC+UNITY"
+        },
+        {
+            "solution": "Singapore POP-APCN2+TPE-Los Angeles POP",
+            "routedetails": "Singapore POP-Katong CLS-APCN2-Shantou CLS-Shanghai ITMC--Chongming CLS-TPE-Hillsboro CLS-America Backhaul-Los Angeles POP",
+            "slalatency": "188.0",
+            "popa_city": "Singapore",
+            "popz_city": "Los Angeles",
+            "cable_routing": "APCN2+TPE"
+        },
+        {
+            "solution": "London POP-Yellow/TAT14-Washington D.C. POP",
+            "routedetails": "Main:London POP–Bude CLS–Yellow–Bellport CLS-Washington D.C. POP；Backup:London POP–Bude CLS–TAT14-St.Valery CLS-Katwijk CLS-Norden CLS-Blaabjerg CLS–Manasquan CLS–Washington D.C. POP",
+            "slalatency": "90.0",
+            "popa_city": "London",
+            "popz_city": "Washington",
+            "cable_routing": "Yellow/TAT14"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TMP - Moscow POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TMP - Moscow POP",
+            "slalatency": "125.30",
+            "popa_city": "HongKong",
+            "popz_city": "Moscow",
+            "cable_routing": "TMP"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TMP - Frankfurt POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TMP - Stockholm POP - Europe Backbone - Frankfurt POP",
+            "slalatency": "172.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "TMP"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TEA - Frankfurt POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-RUS Border(Heihe) - TEA - Stockholm POP - Europe Backbone - Frankfurt POP",
+            "slalatency": "220.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "TEA"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TEA2 - Frankfurt POP (Short)",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-RUS Border(Heihe) - TEA2 - Stockholm POP - Europe Backbone - Frankfurt POP (Short)",
+            "slalatency": "201.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "TEA2"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TEA4 - Frankfurt POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TEA4 - Frankfurt POP",
+            "slalatency": "177.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "TEA4"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - CR2 - Frankfurt POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-RUS Border(Suifenhe) - CR2 - Frankfurt POP",
+            "slalatency": "230.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "CR2"
+        },
+        {
+            "solution": "Hong Kong POP - SJC+SMW4 - Frankfurt POP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Tuas CLS - Singapore POP - Tuas CLS - SMW4 - Marseille CLS - Frankfurt POP",
+            "slalatency": "220.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "SJC+SMW4"
+        },
+        {
+            "solution": "Hong Kong POP - SJC+SMW3 - Frankfurt POP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Tuas CLS - Singapore POP - Tuas CLS - SMW3 - Ostend CLS - London POP - Europe Backbone - Frankfurt POP",
+            "slalatency": "254.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "SJC+SMW3"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TMP - London POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TMP - Stockholm POP - Europe Backbone - London POP",
+            "slalatency": "182.0",
+            "popa_city": "HongKong",
+            "popz_city": "London",
+            "cable_routing": "TMP"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TEA - London POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-RUS Border(Heihe) - TEA - Stockholm POP - Europe Backbone - London POP",
+            "slalatency": "230.0",
+            "popa_city": "HongKong",
+            "popz_city": "London",
+            "cable_routing": "TEA"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TEA2 - London POP (Short)",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-RUS Border(Heihe) - TEA2 - Stockholm POP - Europe Backbone - London POP (Short)",
+            "slalatency": "203.0",
+            "popa_city": "HongKong",
+            "popz_city": "London",
+            "cable_routing": "TEA2"
+        },
+        {
+            "solution": "Hong Kong POP - SJC+SMW4+TGN-EA - London POP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Tuas CLS - Singapore POP - Tuas CLS - SMW4 - Mumbai CLS - TGN-EA - Net Centre CLS - London POP",
+            "slalatency": "228.0",
+            "popa_city": "HongKong",
+            "popz_city": "London",
+            "cable_routing": "SJC+SMW4+TGN-EA"
+        },
+        {
+            "solution": "Singapore POP - SMW4+TGN-EA - London POP",
+            "routedetails": "Singapore POP - Tuas CLS - SMW4 - Mumbai CLS - TGN-EA - Net Centre CLS - London POP",
+            "slalatency": "193.0",
+            "popa_city": "Singapore",
+            "popz_city": "London",
+            "cable_routing": "SMW4+TGN-EA"
+        },
+        {
+            "solution": "Singapore POP - SMW3 - London POP",
+            "routedetails": "Singapore POP - Tuas CLS - SMW3 - Ostend CLS - London POP",
+            "slalatency": "206.0",
+            "popa_city": "Singapore",
+            "popz_city": "London",
+            "cable_routing": "SMW3"
+        },
+        {
+            "solution": "Singapore POP - SMW4 - Frankfurt POP",
+            "routedetails": "Singapore POP - Tuas CLS - SMW4 - Marseille CLS - Frankfurt POP",
+            "slalatency": "185.0",
+            "popa_city": "Singapore",
+            "popz_city": "Frankfurt",
+            "cable_routing": "SMW4"
+        },
+        {
+            "solution": "Singapore POP - SMW4 - Fujairah POP",
+            "routedetails": "Singapore POP - SMW4 - Fujairah POP",
+            "slalatency": "77.0",
+            "popa_city": "Singapore",
+            "popz_city": "Fujairah",
+            "cable_routing": "SMW4"
+        },
+        {
+            "solution": "Fujairah POP - Trans-Turkey(Istanbul)- Frankfurt POP",
+            "routedetails": "Fujairah POP - Trans-Turkey(Istanbul) - Frankfurt POP",
+            "slalatency": "119.0",
+            "popa_city": "Fujairah",
+            "popz_city": "Frankfurt",
+            "cable_routing": "Trans-Turkey(Istanbul)"
+        },
+        {
+            "solution": "Johannesburg POP - WACS - London POP",
+            "routedetails": "Johannesburg POP - WACS - London POP",
+            "slalatency": "170.0",
+            "popa_city": "Johannesburg",
+            "popz_city": "London",
+            "cable_routing": "WACS"
+        },
+        {
+            "solution": "Mega-i POP - Hong Kong Backbone - HK Equinix2 POP",
+            "routedetails": "Mega-i POP - Hong Kong Backbone - HK Equinix2 POP",
+            "slalatency": "3.0",
+            "popa_city": "HongKong",
+            "popz_city": "HongKong",
+            "cable_routing": "Hong Kong Backbone"
+        },
+        {
+            "solution": "Mega-i POP - Hong Kong Backbone - Exchange POP",
+            "routedetails": "Mega-i POP - Hong Kong Backbone - Exchange POP",
+            "slalatency": "3.0",
+            "popa_city": "HongKong",
+            "popz_city": "HongKong",
+            "cable_routing": "Hong Kong Backbone"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2 - Singapore POP (P)",
+            "routedetails": "Hong Kong POP - Lantau CLS - APCN2 - Katong CLS - Singapore POP (P)",
+            "slalatency": "36.0",
+            "popa_city": "HongKong",
+            "popz_city": "Singapore",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2 - Singapore POP (UN)",
+            "routedetails": "Hong Kong POP - Lantau CLS - APCN2 - Katong CLS - Singapore POP (UN)",
+            "slalatency": "36.0",
+            "popa_city": "HongKong",
+            "popz_city": "Singapore",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2 - Japan POP(UN)",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Shanghai ITMC - Chongming CLS - APCN2 - Chikura CLS - Japan POP(UN)",
+            "slalatency": "71.0",
+            "popa_city": "HongKong",
+            "popz_city": "Tokyo",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Hong Kong POP - SJC - Singapore POP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Tuas CLS - Singapore POP",
+            "slalatency": "38.0",
+            "popa_city": "HongKong",
+            "popz_city": "Singapore",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "Hong Kong POP - IA - Singapore POP",
+            "routedetails": "Hong Kong POP - Deep Water Bay CLS - IA - Changi CLS - Singapore POP",
+            "slalatency": "36.0",
+            "popa_city": "HongKong",
+            "popz_city": "Singapore",
+            "cable_routing": "IA"
+        },
+        {
+            "solution": "Hong Kong POP - EAC - Singapore POP (Low Latency)",
+            "routedetails": "Hong Kong POP - Tseung Kwan O CLS - EAC - Changi CLS -Singapore POP (Low Latency)",
+            "slalatency": "31.90",
+            "popa_city": "HongKong",
+            "popz_city": "Singapore",
+            "cable_routing": "EAC"
+        },
+        {
+            "solution": "Hong Kong POP - SJC -  Japan POP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Chikura CLS -  Japan POP",
+            "slalatency": "49.0",
+            "popa_city": "HongKong",
+            "popz_city": "Tokyo",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "Hong Kong POP - TPE - Japan POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Shanghai ITMC - Chongming CLS - TPE - Maruyama CLS - Japan Backhaul - Japan POP",
+            "slalatency": "63.0",
+            "popa_city": "HongKong",
+            "popz_city": "Tokyo",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "Global Switch POP - Singapore Backbone - SGX POP",
+            "routedetails": "Global Switch POP - Singapore Backbone - SGX POP",
+            "slalatency": "3.0",
+            "popa_city": "Singapore",
+            "popz_city": "Singapore",
+            "cable_routing": "Singapore Backbone"
+        },
+        {
+            "solution": "Singapore POP - APCN2 - Japan POP(UN)",
+            "routedetails": "Singapore POP - Katong CLS - APCN2 - Chikura CLS - Japan POP(UN)",
+            "slalatency": "79.0",
+            "popa_city": "Singapore",
+            "popz_city": "Tokyo",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Singapore POP - SJC - Japan POP",
+            "routedetails": "Singapore POP - Tuas CLS - SJC - Chikura CLS - Japan POP",
+            "slalatency": "69.0",
+            "popa_city": "Singapore",
+            "popz_city": "Tokyo",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "Main:Singapore POP - EAC - Japan POPBackup:Singapore POP - IA - Japan POP",
+            "routedetails": "Main:Singapore POP - Changi CLS - EAC - Ajigaura CLS - Japan POPBackup:Singapore POP - Changi CLS - IA - Toyohashi CLS - Japan POP",
+            "slalatency": "\"Main:75Backup:83\"",
+            "popa_city": "Singapore",
+            "popz_city": "Tokyo",
+            "cable_routing": "IA+EAC"
+        },
+        {
+            "solution": "Hong Kong POP – AAG+AJC/SMW3 - Sydney POP (P)",
+            "routedetails": "Main:Hong Kong POP - Lantou CLS – AAG - La Union CLS – Tanguisson CLS – AJC - Oxford Falls CLS - Sydney POPBackup:Hong Kong POP - Deep Water Bay - SMW3 - Perth CLS - Sydney POP",
+            "slalatency": "122.0",
+            "popa_city": "HongKong",
+            "popz_city": "Sydney",
+            "cable_routing": "AAG+AJC/SMW3"
+        },
+        {
+            "solution": "Singapore POP - SMW3 - Perth POP",
+            "routedetails": "Singapore POP - Tuas CLS - SMW3 - Perth CLS - Perth POP",
+            "slalatency": "52.0",
+            "popa_city": "Singapore",
+            "popz_city": "Perth",
+            "cable_routing": "SMW3"
+        },
+        {
+            "solution": "Singapore POP - SMW3 - Sydney POP",
+            "routedetails": "Singapore POP - Tuas CLS - SMW3 - Perth CLS - Perth POP - Sydney-Perth Terrestrial Cable - Sydney POP",
+            "slalatency": "114.0",
+            "popa_city": "Singapore",
+            "popz_city": "Sydney",
+            "cable_routing": "SMW3"
+        },
+        {
+            "solution": "Frankfurt POP - Europe Backbone - Stockholm POP",
+            "routedetails": "Frankfurt POP - Europe Backbone - Stockholm POP",
+            "slalatency": "27-29",
+            "popa_city": "Frankfurt",
+            "popz_city": "Stockholm",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Stockholm POP - Europe Backbone - London POP",
+            "routedetails": "Stockholm POP - Europe Backbone - London POP",
+            "slalatency": "28-48.5",
+            "popa_city": "Stockholm",
+            "popz_city": "London",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Frankfurt POP - Europe Backbone - London POP",
+            "routedetails": "Frankfurt POP - Europe Backbone - London POP",
+            "slalatency": "13-19",
+            "popa_city": "Frankfurt",
+            "popz_city": "London",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Frankfurt POP - Europe Backbone - Moscow POP",
+            "routedetails": "Frankfurt POP - Europe Backbone - Moscow POP",
+            "slalatency": "40.0",
+            "popa_city": "Frankfurt",
+            "popz_city": "Moscow",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Seattle POP - America Backbone - San Jose POP",
+            "routedetails": "Seattle POP - America Backbone - San Jose POP",
+            "slalatency": "19.5",
+            "popa_city": "Seattle",
+            "popz_city": "San Jose",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "San Jose POP - America Backbone - Chicago POP",
+            "routedetails": "San Jose POP - America Backbone - Chicago POP",
+            "slalatency": "63.0",
+            "popa_city": "San Jose",
+            "popz_city": "Chicago",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "San Jose POP - America Backbone - New York POP",
+            "routedetails": "San Jose POP - America Backbone - New York POP",
+            "slalatency": "82.0",
+            "popa_city": "San Jose",
+            "popz_city": "New York",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "San Jose POP - America Backbone - Los Angeles POP",
+            "routedetails": "San Jose POP - America Backbone - Los Angeles POP",
+            "slalatency": "11.0",
+            "popa_city": "San Jose",
+            "popz_city": "Los Angeles",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "San Jose POP - America Backbone - Palo Alto POP",
+            "routedetails": "San Jose POP - America Backbone - Palo Alto POP",
+            "slalatency": "8.0",
+            "popa_city": "San Jose",
+            "popz_city": "Palo Alto",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Los Angeles POP - America Backbone - New York POP",
+            "routedetails": "Los Angeles POP - America Backbone - New York POP",
+            "slalatency": "74.5",
+            "popa_city": "Los Angeles",
+            "popz_city": "New York",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Los Angeles POP - America Backbone - Washington D.C. POP",
+            "routedetails": "Los Angeles POP - America Backbone - Washington D.C. POP",
+            "slalatency": "58.0",
+            "popa_city": "Los Angeles",
+            "popz_city": "Washington",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Los Angeles POP - America Backbone - Miami POP",
+            "routedetails": "Los Angeles POP - America Backbone - Miami POP",
+            "slalatency": "56.0",
+            "popa_city": "Los Angeles",
+            "popz_city": "Miami",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Chicago POP - America Backbone - Toronto POP",
+            "routedetails": "Chicago POP - America Backbone - Toronto POP",
+            "slalatency": "18.0",
+            "popa_city": "Chicago",
+            "popz_city": "Toronto",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Chicago POP - America Backbone - New York POP(UN)",
+            "routedetails": "Chicago POP - America Backbone - New York POP",
+            "slalatency": "18.0",
+            "popa_city": "Chicago",
+            "popz_city": "New York",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Chicago POP - America Backbone - Dallas POP",
+            "routedetails": "Chicago POP - America Backbone - Dallas POP",
+            "slalatency": "45.5",
+            "popa_city": "Chicago",
+            "popz_city": "Dallas",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "New York POP - America Backbone - Toronto POP",
+            "routedetails": "New York POP - America Backbone - Toronto POP",
+            "slalatency": "22.0",
+            "popa_city": "New York",
+            "popz_city": "Toronto",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "New York POP - America Backbone - Washington D.C. POP",
+            "routedetails": "New York POP - America Backbone - Washington D.C. POP",
+            "slalatency": "9.0",
+            "popa_city": "New York",
+            "popz_city": "Washington",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Washington D.C. POP - America Backbone - Miami POP",
+            "routedetails": "Washington D.C. POP - America Backbone - Miami POP",
+            "slalatency": "28.5",
+            "popa_city": "Washington D.C",
+            "popz_city": "Miami",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Los Angeles POP - America Backbone - Dallas POP",
+            "routedetails": "Los Angeles POP - America Backbone - Dallas POP",
+            "slalatency": "39.0",
+            "popa_city": "Los Angeles",
+            "popz_city": "Dallas",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Hong Kong POP-Chongming CLS-TPE-Chicago POP",
+            "routedetails": "Hong Kong POP-HK/SZ Border-Shanghai ITMC-Chongming CLS-TPE-Hillsboro CLS-America Backhaul-Chicago POP",
+            "slalatency": "191.0",
+            "popa_city": "HongKong",
+            "popz_city": "Chicago",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "Hong Kong POP-Chongming CLS-TPE-New York POP",
+            "routedetails": "Hong Kong POP-HK/SZ Border-Shanghai ITMC-Chongming CLS-TPE-Hillsboro CLS-America Backhaul-Chicago POP-New York POP",
+            "slalatency": "202.0",
+            "popa_city": "HongKong",
+            "popz_city": "New York",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "Japan POP-PC1-Chicago POP",
+            "routedetails": "Japan POP-Agigaura CLS–PC1(North)-Harbour Pointe CLS–Seattle-Chicago POP",
+            "slalatency": "128.78",
+            "popa_city": "Tokyo",
+            "popz_city": "Chicago",
+            "cable_routing": "PC1"
+        },
+        {
+            "solution": "Japan POP-PC2-New York POP",
+            "routedetails": "Japan POP-Agigaura CLS–PC1(North)-Harbour Pointe CLS–Seattle POP-Chicago POP-New York POP",
+            "slalatency": "146.00",
+            "popa_city": "Tokyo",
+            "popz_city": "New York",
+            "cable_routing": "PC1"
+        },
+        {
+            "solution": "Stockholm POP - Europe Backbone - Moscow POP",
+            "routedetails": "Stockholm POP - Europe Backbone - Moscow POP",
+            "slalatency": "24.0",
+            "popa_city": "Stockholm",
+            "popz_city": "Moscow",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "London POP - Europe Backbone - Paris POP",
+            "routedetails": "London POP - Europe Backbone - Paris POP",
+            "slalatency": "11-15",
+            "popa_city": "London",
+            "popz_city": "Paris",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Frankfurt POP - Europe Backbone - Paris POP",
+            "routedetails": "Frankfurt POP - Europe Backbone - Paris POP",
+            "slalatency": "11-12",
+            "popa_city": "Frankfurt",
+            "popz_city": "Paris",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TEA4 - Paris POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TEA4 - Frankfurt POP Europe Backbone - Paris POP",
+            "slalatency": "187.0",
+            "popa_city": "HongKong",
+            "popz_city": "Paris",
+            "cable_routing": "TEA4"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - CR2 - Paris POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-RUS Border(Suifenhe) - CR2 - Frankfurt - Paris POP",
+            "slalatency": "265.0",
+            "popa_city": "HongKong",
+            "popz_city": "Paris",
+            "cable_routing": "CR2"
+        },
+        {
+            "solution": "Hong Kong POP - SJC+SMW4 - Paris POP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Tuas CLS - Singapore POP - Tuas CLS - SMW4 - Marseille CLS - Frankfurt POP - Europe Backbone - Paris POP",
+            "slalatency": "230.0",
+            "popa_city": "HongKong",
+            "popz_city": "Paris",
+            "cable_routing": "SJC+SMW4"
+        },
+        {
+            "solution": "Hong Kong POP-Zhuhai/Macau Border",
+            "routedetails": "Hong Kong-Guangzhou ITMC-Zhuhai/Macau Border",
+            "slalatency": "9.0",
+            "popa_city": "HongKong",
+            "popz_city": "Zhuhai",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2 - Mainland China-Taiwan Bilateral Point",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Guangzhou ITMC - Shantou CLS - APCN2 - Mainland China-Taiwan Bilateral Point",
+            "slalatency": "31.0",
+            "popa_city": "HongKong",
+            "popz_city": "Shantou",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Hong Kong POP - TPE - Mainland China-Taiwan Bilateral Point",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Shanghai ITMC - Chongming CLS - TPE - Mainland China-Taiwan Bilateral Point",
+            "slalatency": "49.0",
+            "popa_city": "HongKong",
+            "popz_city": "Shanghai",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "Hong Kong POP - Xiamen POP - CSCN - Mainland China-Taiwan Bilateral Point",
+            "routedetails": "Hong Kong POP - Xiamen POP - CSCN - Mainland China-Taiwan Bilateral Point",
+            "slalatency": "24.0",
+            "popa_city": "HongKong",
+            "popz_city": "Xiamen",
+            "cable_routing": "CSCN"
+        },
+        {
+            "solution": "Katong CLS - APCN2 - Japan POP",
+            "routedetails": "Katong CLS - APCN2 - Chikura CLS - Japan POP",
+            "slalatency": "78.0",
+            "popa_city": "Katong",
+            "popz_city": "Tokyo",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Singapore POP - APCN2 - Chikura CLS",
+            "routedetails": "Singapore POP - Katong CLS - APCN2 - Chikura CLS",
+            "slalatency": "77.0",
+            "popa_city": "Singapore",
+            "popz_city": "Chikura",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Singapore POP - SJC - Chikura CLS",
+            "routedetails": "Singapore POP - Tuas CLS - SJC - Chikura CLS",
+            "slalatency": "68.0",
+            "popa_city": "Singapore",
+            "popz_city": "Chikura",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "(Lite)Lantau CLS - APCN2 - Katong CLS",
+            "routedetails": "Lantau CLS - APCN2 - Katong CLS",
+            "slalatency": "34.0",
+            "popa_city": "Lantau",
+            "popz_city": "Katong",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2 - Katong CLS",
+            "routedetails": "Hong Kong POP - Lantau CLS - APCN2 - Katong CLS",
+            "slalatency": "35.0",
+            "popa_city": "HongKong",
+            "popz_city": "Katong",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Lantau CLS - APCN2 - Singapore POP",
+            "routedetails": "Lantau CLS - APCN2 - Katong CLS - Singapore POP",
+            "slalatency": "35.5",
+            "popa_city": "Lantau",
+            "popz_city": "Singapore",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Hong Kong POP - SJC - Tuas CLS",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Tuas CLS",
+            "slalatency": "37.0",
+            "popa_city": "HongKong",
+            "popz_city": "Tuas",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "Hong Kong POP - SJC - Chikura CLS",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Chikura CLS",
+            "slalatency": "48.0",
+            "popa_city": "HongKong",
+            "popz_city": "Chikura",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "Kitaibraki CLS-JUS-San Jose POP",
+            "routedetails": "Kitaibraki CLS-JUS-Manchester CLS-America Backhaul-San Jose POP",
+            "slalatency": "96.0",
+            "popa_city": "Kitaibraki",
+            "popz_city": "San Jose",
+            "cable_routing": "JUS"
+        },
+        {
+            "solution": "Kitaibraki CLS-JUS-Los Angeles POP",
+            "routedetails": "Kitaibraki CLS-JUS-Manchester CLS-America Backhaul-Los Angeles POP",
+            "slalatency": "102.0",
+            "popa_city": "Kitaibraki",
+            "popz_city": "Los Angeles",
+            "cable_routing": "JUS"
+        },
+        {
+            "solution": "Japan POP-PC1-San Jose POP",
+            "routedetails": "Japan POP-Maruyama CLS-Shima CLS–PC1(South)–Grover Beach CLS–San Jose POP",
+            "slalatency": "118.0",
+            "popa_city": "Tokyo",
+            "popz_city": "San Jose",
+            "cable_routing": "PC1"
+        },
+        {
+            "solution": "Chikura CLS-UNITY-Los Angeles POP",
+            "routedetails": "Chikura CLS-UNITY-Redondo Beach CLS-Los Angeles POP",
+            "slalatency": "106.0",
+            "popa_city": "Chikura",
+            "popz_city": "Los Angeles",
+            "cable_routing": "UNITY"
+        },
+        {
+            "solution": "Chikura CLS-PC1-Los Angeles POP",
+            "routedetails": "Japan POP-Maruyama CLS-Shima CLS–PC1(South)–Grover Beach CLS–Los Angeles POP",
+            "slalatency": "116.0",
+            "popa_city": "Chikura",
+            "popz_city": "Los Angeles",
+            "cable_routing": "PC1"
+        },
+        {
+            "solution": "Maruyama CLS-PC1-San Jose POP",
+            "routedetails": "Maruyama CLS-Shima CLS–PC1(South)–Grover Beach CLS–San Jose POP",
+            "slalatency": "115.0",
+            "popa_city": "Maruyama",
+            "popz_city": "San Jose",
+            "cable_routing": "PC1"
+        },
+        {
+            "solution": "Maruyama CLS-UNITY-Los Angeles POP",
+            "routedetails": "Maruyama CLS-Chikura CLS-UNITY-Redondo Beach CLS-Los Angeles POP",
+            "slalatency": "107.0",
+            "popa_city": "Maruyama",
+            "popz_city": "Los Angeles",
+            "cable_routing": "UNITY"
+        },
+        {
+            "solution": "Maruyama CLS-PC1-Los Angeles POP",
+            "routedetails": "Maruyama CLS-Shima CLS–PC1(South)–Grover Beach CLS–Los Angeles POP",
+            "slalatency": "114.0",
+            "popa_city": "Maruyama",
+            "popz_city": "Los Angeles",
+            "cable_routing": "PC1"
+        },
+        {
+            "solution": "CHN-VNM Border(Pingxiang)- Hong Kong-Mainland China Terrestrial Cable - Hong Kong POP",
+            "routedetails": "CHN-VNM Border(Pingxiang) - Hong Kong-Mainland China Terrestrial Cable - Guangzhou ITMC - HK/SZ Border - Hong Kong POP",
+            "slalatency": "17.5",
+            "popa_city": "HongKong",
+            "popz_city": "Pingxiang",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "CHN-LAO Border(Mengla)- Hong Kong-Mainland China Terrestrial Cable - Hong Kong POP",
+            "routedetails": "CHN-LAO Border(Mengla) - Kunming - Guangzhou ITMC - HK/SZ Border - Hong Kong POP",
+            "slalatency": "42.0",
+            "popa_city": "HongKong",
+            "popz_city": "Mengla",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "Hong Kong POP - Guangzhou ITMC - Hong Kong-Mainland China Terrestrial Cable - CHN-MMR Border(Ruili)",
+            "routedetails": "Hong Kong POP - HK/SZ Border -Guangzhou ITMC - Hong Kong-Mainland China Terrestrial Cable - Kunming - CHN-MMR Border(Ruili)",
+            "slalatency": "43.0",
+            "popa_city": "HongKong",
+            "popz_city": "Ruili",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "Hong Kong POP - Hong Kong-Urumchi Terrestrial Cable - CHN-KAZ Border(Khorgos)",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Guangzhou ITMC - Urumchi ITMC - CHN-KAZ Border(Khorgos)",
+            "slalatency": "83.0",
+            "popa_city": "HongKong",
+            "popz_city": "Horgos",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "Hong Kong POP - Hong Kong-Urumchi Terrestrial Cable - CHN-KAZ Border(Alashankou)",
+            "routedetails": "Hong Kong POP - HK/SZ Border -Guangzhou ITMC - Urumchi ITMC - CHN-KAZ Border(Alashankou)",
+            "slalatency": "84.0",
+            "popa_city": "HongKong",
+            "popz_city": "Alashakou",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "Hong Kong POP -Hong Kong-Urumchi Terrestrial Cable - CHN-KGZ Border(Atushi)",
+            "routedetails": "Hong Kong POP - HK/SZ Border -Guangzhou ITMC - Urumchi ITMC - CHN-KGZ Border(Atushi)",
+            "slalatency": "92.0",
+            "popa_city": "HongKong",
+            "popz_city": "Atushi",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "Hong Kong POP - Hong Kong-Beijing Terrestrial Cable - CHN-MNG Border(Erenhot)",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot)",
+            "slalatency": "51.0",
+            "popa_city": "HongKong",
+            "popz_city": "Erenhot",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "CHN-RUS Border(Suifenhe)- Hong Kong-Beijing Terrestrial Cable - Hong Kong POP",
+            "routedetails": "CHN-RUS Border(Suifenhe) - Beijing ITMC - Guangzhou ITMC - HK/SZ Border - Hong Kong POP",
+            "slalatency": "68.0",
+            "popa_city": "HongKong",
+            "popz_city": "Suifenhe",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "CHN-RUS Border(Heihe)- Hong Kong-Beijing Terrestrial Cable - Hong Kong POP",
+            "routedetails": "CHN-RUS Border(Heihe) - Beijing ITMC - Guangzhou ITMC - HK/SZ Border - Hong Kong POP",
+            "slalatency": "68.0",
+            "popa_city": "HongKong",
+            "popz_city": "Heihe",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "Singapore POP - SMW4+EIG+EASSY - Johannesburg POP",
+            "routedetails": "Singapore POP - SMW4+EIG+EASSY - Johannesburg POP",
+            "slalatency": "225.0",
+            "popa_city": "Singapore",
+            "popz_city": "Johannesburg",
+            "cable_routing": "SMW4+EIG+EASSY"
+        },
+        {
+            "solution": "Chikura CLS-PC1-San Jose POP",
+            "routedetails": "Chikura CLS-Maruyama CLS-Shima CLS–PC1(South)–Grover Beach CLS–San Jose POP",
+            "slalatency": "117.0",
+            "popa_city": "Chikura",
+            "popz_city": "San Jose",
+            "cable_routing": "PC1"
+        },
+        {
+            "solution": "Singapore POP-SJC+JUS-San Jose POP",
+            "routedetails": "Singapore POP-Tuas CLS–SJC–Chikura CLS-Shima CLS–JUS–Makaha CLS–Morro Bay CLS-America Backhaul-San Jose POP",
+            "slalatency": "200.0",
+            "popa_city": "San Jose",
+            "popz_city": "Singapore",
+            "cable_routing": "SJC+JUS"
+        },
+        {
+            "solution": "Singapore POP-APCN2+TPE-Los Angeles POP",
+            "routedetails": "Singapore POP-Katong CLS–APCN2-Chongming CLS-TPE–Hillsboro CLS–America Backhaul-Los Angeles POP",
+            "slalatency": "196.0",
+            "popa_city": "Los Angeles",
+            "popz_city": "Singapore",
+            "cable_routing": "APCN2+TPE"
+        },
+        {
+            "solution": "HK POP-SJC-Singapore POP - SMW4+EIG+EASSY - Johannesburg POP",
+            "routedetails": "HK POP-SJC-Singapore POP - SMW4+EIG+EASSY - Johannesburg POP",
+            "slalatency": "262.0",
+            "popa_city": "Johannesburg",
+            "popz_city": "HongKong",
+            "cable_routing": "SJC+SMW4+EIG+EASSY"
+        },
+        {
+            "solution": "Hong Kong POP-TPE-Maruyama CLS",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Shanghai ITMC - Chongming CLS - TPE -Maruyama CLS",
+            "slalatency": "58.0",
+            "popa_city": "HongKong",
+            "popz_city": "Maruyama",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2 - Korea POP(UN)",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Shanghai ITMC - Chongming CLS - APCN2 - Pusan CLS - Korea POP(UN)",
+            "slalatency": "50.0",
+            "popa_city": "HongKong",
+            "popz_city": "Korea",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Hong Kong POP - TPE - Korea POP(UN)",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Shanghai ITMC - Chongming CLS - TPE - Keoje CLS - Korea POP(UN)",
+            "slalatency": "67.0",
+            "popa_city": "HongKong",
+            "popz_city": "Korea",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "Miami POP-SAC/LAN+MAC-Sao Paulo ALOG POP",
+            "routedetails": "Miami POP-SAC/LAN+MAC-Sao Paulo ALOG POP",
+            "slalatency": "112.0",
+            "popa_city": "Miami",
+            "popz_city": "Sao Paulo",
+            "cable_routing": "SAC/LAN+MAC"
+        },
+        {
+            "solution": "San Jose POP - SAC/LAN+MAC-Sao Paulo ALOG POP",
+            "routedetails": "San Jose POP - America Backbone - Miami POP-SAC/LAN+MAC-Sao Paulo ALOG POP",
+            "slalatency": "175.0",
+            "popa_city": "San Jose",
+            "popz_city": "Sao Paulo",
+            "cable_routing": "SAC/LAN+MAC"
+        },
+        {
+            "solution": "San Jose POP -Globenet-Sao Paulo ALOG POP",
+            "routedetails": "San Jose POP - America Backbone - New York POP-Globenet-Sao Paulo ALOG POP",
+            "slalatency": "197.0",
+            "popa_city": "San Jose",
+            "popz_city": "Sao Paulo",
+            "cable_routing": "Globenet"
+        },
+        {
+            "solution": "Los Angeles POP - SAC/LAN+MAC-Sao Paulo ALOG POP",
+            "routedetails": "Los Angeles POP - America Backbone - Miami POP-SAC/LAN+MAC-Sao Paulo ALOG POP",
+            "slalatency": "186.0",
+            "popa_city": "Los Angeles",
+            "popz_city": "Sao Paulo",
+            "cable_routing": "SAC/LAN+MAC"
+        },
+        {
+            "solution": "Los Angeles POP -Globenet-Sao Paulo ALOG POP",
+            "routedetails": "Los Angeles POP - America Backbone - New York POP-Globenet-Sao Paulo ALOG POP",
+            "slalatency": "165.0",
+            "popa_city": "Los Angeles",
+            "popz_city": "Sao Paulo",
+            "cable_routing": "Globenet"
+        },
+        {
+            "solution": "Hong Kong POP - SJC+SMW4+TGN-EA - Frankfurt POP - London POP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Tuas CLS - Singapore POP - Tuas CLS - SMW4 - Marseille CLS - Frankfurt POP - Europe Backbone - London POP",
+            "slalatency": "195.0",
+            "popa_city": "HongKong",
+            "popz_city": "London",
+            "cable_routing": "SJC+SMW4"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TMP - Stockholm POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TMP - Stockholm POP",
+            "slalatency": "175.0",
+            "popa_city": "HongKong",
+            "popz_city": "Stockholm",
+            "cable_routing": "TMP"
+        },
+        {
+            "solution": "Frankfurt POP-TMP- Beijing ITMC- Shanghai ITMC-TPE-Japan POP",
+            "routedetails": "Frankfurt POP-Europe Backbone- Stockholm POP- TMP - CHN-MNG Border(Erenhot)-Beijing ITMC - Shanghai ITMC - Chongming CLS - TPE - Maruyama CLS - Japan Backhaul - Japan POP",
+            "slalatency": "195.0",
+            "popa_city": "Frankfurt",
+            "popz_city": "Tokyo",
+            "cable_routing": "TMP+TPE(SH)"
+        },
+        {
+            "solution": "Frankfurt POP-TMP- Beijing ITMC- Shanghai ITMC-APCN2-Japan POP",
+            "routedetails": "Frankfurt POP-Europe Backbone- Stockholm POP- TMP - CHN-MNG Border(Erenhot)-Beijing ITMC - Shanghai ITMC - Chongming CLS - APCN2 - Chikura CLS - Japan Backhaul - Japan POP",
+            "slalatency": "200.0",
+            "popa_city": "Frankfurt",
+            "popz_city": "Tokyo",
+            "cable_routing": "TMP+APNC2"
+        },
+        {
+            "solution": "Frankfurt POP-TMP- Beijing ITMC- Qingdao CLS-TPE-Japan POP",
+            "routedetails": "Frankfurt POP-Europe Backbone- Stockholm POP- TMP - CHN-MNG Border(Erenhot)-Beijing ITMC - Qingdao CLS- TPE - Maruyama CLS - Japan Backhaul - Japan POP",
+            "slalatency": "185.0",
+            "popa_city": "Frankfurt",
+            "popz_city": "Tokyo",
+            "cable_routing": "TMP+TPE(QD)"
+        },
+        {
+            "solution": "London POP-TMP- Beijing ITMC- Shanghai ITMC-TPE-Japan POP",
+            "routedetails": "London POP-Europe Backbone- Stockholm POP- TMP - CHN-MNG Border(Erenhot)-Beijing ITMC - Shanghai ITMC - Chongming CLS - TPE - Maruyama CLS - Japan Backhaul - Japan POP",
+            "slalatency": "200.0",
+            "popa_city": "London",
+            "popz_city": "Tokyo",
+            "cable_routing": "TMP+TPE(SH)"
+        },
+        {
+            "solution": "London POP-TMP- Beijing ITMC- Shanghai ITMC-APCN2-Japan POP",
+            "routedetails": "London POP-Europe Backbone- Stockholm POP- TMP - CHN-MNG Border(Erenhot)-Beijing ITMC - Shanghai ITMC - Chongming CLS - APCN2 - Chikura CLS - Japan Backhaul - Japan POP",
+            "slalatency": "204.0",
+            "popa_city": "London",
+            "popz_city": "Tokyo",
+            "cable_routing": "TMP+APNC2"
+        },
+        {
+            "solution": "London POP-TMP- Beijing ITMC- Qingdao CLS-TPE-Japan POP",
+            "routedetails": "London POP-Europe Backbone- Stockholm POP- TMP - CHN-MNG Border(Erenhot)-Beijing ITMC - Qingdao CLS- TPE - Maruyama CLS - Japan Backhaul - Japan POP",
+            "slalatency": "188.0",
+            "popa_city": "London",
+            "popz_city": "Tokyo",
+            "cable_routing": "TMP+TPE(QD)"
+        },
+        {
+            "solution": "Stockholm POP - Europe Backbone - Amsterdam POP",
+            "routedetails": "Stockholm POP - Europe Backbone - Amsterdam POP",
+            "slalatency": "23.0",
+            "popa_city": "Stockholm",
+            "popz_city": "Amsterdam",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Frankfurt POP -Europe Backbone - Amsterdam POP",
+            "routedetails": "Frankfurt POP -Europe Backbone - Amsterdam POP",
+            "slalatency": "8.0",
+            "popa_city": "Frankfurt",
+            "popz_city": "Amsterdam",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "London POP -Europe Backbone - Amsterdam POP",
+            "routedetails": "London POP -Europe Backbone - Amsterdam POP",
+            "slalatency": "9.0",
+            "popa_city": "London",
+            "popz_city": "Amsterdam",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "London POP -Europe Backbone - Milan POP",
+            "routedetails": "London POP -Europe Backbone - Milan POP",
+            "slalatency": "26.0",
+            "popa_city": "London",
+            "popz_city": "Milan",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Frankfurt POP -Europe Backbone - Milan POP",
+            "routedetails": "Frankfurt POP -Europe Backbone - Milan POP",
+            "slalatency": "13.0",
+            "popa_city": "Frankfurt",
+            "popz_city": "Milan",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Cairo POP-FLAG-London POP",
+            "routedetails": "Cairo POP-FLAG-London POP",
+            "slalatency": "78.0",
+            "popa_city": "Cairo",
+            "popz_city": "London",
+            "cable_routing": "FLAG"
+        },
+        {
+            "solution": "Cairo POP - SMW4-Milan POP",
+            "routedetails": "Cairo POP - SMW4 -  Marseille CLS -Milan POP",
+            "slalatency": "80.0",
+            "popa_city": "Cairo",
+            "popz_city": "Milan",
+            "cable_routing": "SMW4"
+        },
+        {
+            "solution": "Seattle POP - America Backbone - Chicago POP",
+            "routedetails": "Seattle POP - America Backbone - Chicago POP",
+            "slalatency": "45.0",
+            "popa_city": "Seattle",
+            "popz_city": "Chicago",
+            "cable_routing": "America Backbone"
+        },
+        {
+            "solution": "Hong Kong POP -AAG - Los Angeles POP",
+            "routedetails": "Hong Kong POP - Lantou CLS – AAG  - San Luis Obispo CLS - Los Angeles POP",
+            "slalatency": "159.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "AAG"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TMP -Amsterdam POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TMP - Stockholm POP - Europe Backbone - Amsterdam POP",
+            "slalatency": "177.0",
+            "popa_city": "HongKong",
+            "popz_city": "Amsterdam",
+            "cable_routing": "TMP"
+        },
+        {
+            "solution": "Singapore POP -SMW4 -Amsterdam POP",
+            "routedetails": "Singapore POP - Tuas CLS - SMW4 - Marseille CLS - Europe Backbone - Amsterdam POP",
+            "slalatency": "190.0",
+            "popa_city": "Singapore",
+            "popz_city": "Amsterdam",
+            "cable_routing": "SMW4"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC -TMP -Milan POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TMP - Stockholm POP - Europe Backbone - Milan POP",
+            "slalatency": "185.0",
+            "popa_city": "HongKong",
+            "popz_city": "Milan",
+            "cable_routing": "TMP"
+        },
+        {
+            "solution": "Japan POP - TPE-Beijing ITMC -CR2 -Frankfurt POP",
+            "routedetails": "Japan POP -Maruyama CLS- TPE - Qingdao CLS - Beijing ITMC - CHN-RUS Border(Suifenhe) - CR2 - Frankfurt POP",
+            "slalatency": "242.5",
+            "popa_city": "Tokyo",
+            "popz_city": "Frankfurt",
+            "cable_routing": "TPE(QD)+CR2(L)"
+        },
+        {
+            "solution": "Japan POP - TPE-Beijing ITMC -CR2 -Frankfurt POP",
+            "routedetails": "Japan POP -Maruyama CLS- TPE - Qingdao CLS - Beijing ITMC - CHN-RUS Border(Suifenhe) - CR2 - Stockholm POP - Frankfurt POP",
+            "slalatency": "226.5",
+            "popa_city": "Tokyo",
+            "popz_city": "Frankfurt",
+            "cable_routing": "TPE(QD)+CR2(S)"
+        },
+        {
+            "solution": "Japan POP - TPE-Shanghai ITMC -CR2 -Frankfurt POP",
+            "routedetails": "Japan POP -Maruyama CLS- TPE - Chongming CLS - Shanghai ITMC- Beijing ITMC - CHN-RUS Border(Suifenhe) - CR2(L) - Frankfurt POP",
+            "slalatency": "252.0",
+            "popa_city": "Tokyo",
+            "popz_city": "Frankfurt",
+            "cable_routing": "TPE(CM)+CR2(L)"
+        },
+        {
+            "solution": "Japan POP - TPE- Chongming CLS",
+            "routedetails": "Japan POP -Maruyama CLS- TPE - Chongming CLS",
+            "slalatency": "32.0",
+            "popa_city": "Tokyo",
+            "popz_city": "Chongming",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "Japan POP - APCN2-Chongming CLS",
+            "routedetails": "Japan POP -Chikura CLS-APCN2 - Chongming CLS",
+            "slalatency": "40.0",
+            "popa_city": "Tokyo",
+            "popz_city": "Chongming",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2 - Pusan CLS (UN)",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Shanghai ITMC - Chongming CLS - APCN2 - Pusan CLS (UN)",
+            "slalatency": "50.0",
+            "popa_city": "HongKong",
+            "popz_city": "Pusan",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "CHN-VNM Border(Pingxiang)- Guangzhou ITMC - Beijing ITMC- CR2 - Frankfurt POP",
+            "routedetails": "CHN-VNM Border(Pingxiang) - Guangzhou ITMC - Beijing ITMC - CHN-RUS Border(Suifenhe) - CR2 - Frankfurt POP",
+            "slalatency": "240.0",
+            "popa_city": "Pingxiang",
+            "popz_city": "Frankfurt",
+            "cable_routing": "CR2"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2+SGP-Thailand Terrestrial cable - Bangkok PoP",
+            "routedetails": "Hong Kong POP - Lantau CLS - APCN2 - Katong CLS - Singapore POP - SGP-Thailand Terrestrial cable - Bangkok PoP",
+            "slalatency": "66.0",
+            "popa_city": "HongKong",
+            "popz_city": "Bangkok",
+            "cable_routing": "APCN2+SGP-Thailand Terrestrial cable"
+        },
+        {
+            "solution": "Hong Kong POP - EAC+SGP-Thailand Terrestrial cable - Bangkok PoP",
+            "routedetails": "Hong Kong POP - Tseung Kwan O CLS - EAC - Changi CLS -Singapore - SGP-Thailand Terrestrial cable - Bangkok PoP",
+            "slalatency": "64.0",
+            "popa_city": "HongKong",
+            "popz_city": "Bangkok",
+            "cable_routing": "EAC+SGP-Thailand Terrestrial cable"
+        },
+        {
+            "solution": "Hong Kong POP - SJC+SGP-Thailand Terrestrial cable - Bangkok PoP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Tuas CLS - Singapore POP - SGP-Thailand Terrestrial cable - Bangkok PoP",
+            "slalatency": "68.0",
+            "popa_city": "HongKong",
+            "popz_city": "Bangkok",
+            "cable_routing": "SJC+SGP-Thailand Terrestrial cable"
+        },
+        {
+            "solution": "Singapore POP - SGP-Thailand Terrestrial cable - Bangkok PoP",
+            "routedetails": "Singapore POP - SGP-Thailand Terrestrial cable - Bangkok PoP",
+            "slalatency": "32.0",
+            "popa_city": "Singapore",
+            "popz_city": "Bangkok",
+            "cable_routing": "SGP-Thailand Terrestrial cable"
+        },
+        {
+            "solution": "Hong Kong POP - SJC - PC1 - Chicago POP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Chikura CLS - @Tokyo POP - Agigaura CLS - PC1 - Harbour Pointe CLS - US Backhaul - Seattle POP - Chicago POP",
+            "slalatency": "175.47",
+            "popa_city": "HongKong",
+            "popz_city": "Chicago",
+            "cable_routing": "SJC+PC1"
+        },
+        {
+            "solution": "London POP - TMP - CHN-MNG Border(Erenhot)",
+            "routedetails": "London POP -  Europe Backbone - Stockholm POP - TMP - CHN-MNG Border(Erenhot)",
+            "slalatency": "130.0",
+            "popa_city": "London",
+            "popz_city": "Erenhot",
+            "cable_routing": "TMP"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TEA2 - Stockholm POP (Short)",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - Heihe CBS - TEA2 - Stockholm POP (Short)",
+            "slalatency": "175.0",
+            "popa_city": "HongKong",
+            "popz_city": "Stockholm",
+            "cable_routing": "TEA2"
+        },
+        {
+            "solution": "Hong Kong POP - TSR - Frankfurt POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Urumqi POP - CHN-KAZ Border(Khorgos)  - TSR - Frankfurt POP",
+            "slalatency": "166.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "TSR"
+        },
+        {
+            "solution": "Mega-i POP - Hong Kong Backbone - Shatin POP",
+            "routedetails": "Mega-i POP - Hong Kong Backbone - Shatin POP",
+            "slalatency": "3.0",
+            "popa_city": "HongKong",
+            "popz_city": "Shatin",
+            "cable_routing": "Hong Kong Backbone"
+        },
+        {
+            "solution": "Hong Kong Shatin POP - SJC - Singapore Equinix POP",
+            "routedetails": "Hong Kong Shatin POP -  HK/SZ Border - Shantou CLS - SJC - Tuas CLS - Singapore Global switch PoP - Singapore Equinix POP",
+            "slalatency": "47.0",
+            "popa_city": "HongKong",
+            "popz_city": "Singapore",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "Hong Kong Mega-i POP - SJC+Faster - San Jose POP",
+            "routedetails": "Hong Kong Mega-i POP - Chung Hom Kok CLS - SJC - Chikura CLS - Faster - Bandon CLS - San Jose POP",
+            "slalatency": "141.7",
+            "popa_city": "HongKong",
+            "popz_city": "San Jose",
+            "cable_routing": "SJC+FASTER"
+        },
+        {
+            "solution": "Shatin POP - Hong Kong Backbone - Sino favor POP",
+            "routedetails": "Shatin POP - Hong Kong Backbone - Mega-i POP - Sino favor POP",
+            "slalatency": "4.0",
+            "popa_city": "Shatin",
+            "popz_city": "HongKong",
+            "cable_routing": "Hong Kong Backbone"
+        },
+        {
+            "solution": "(Lite)Chikura CLS - Faster - San Jose FASTER POP",
+            "routedetails": "Chikura CLS - Faster - Bandon CLS - San Jose FASTER POP",
+            "slalatency": "101.5",
+            "popa_city": "Chikura",
+            "popz_city": "San Jose",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "Singapore POP - BBG+EIG - London POP",
+            "routedetails": "Singapore POP - Penang POP - BBG - Barka CLS - EIG - Monaco CLS - London POP",
+            "slalatency": "194.0",
+            "popa_city": "Singapore",
+            "popz_city": "London",
+            "cable_routing": "BBG+EIG"
+        },
+        {
+            "solution": "Singapore POP - BBG+EIG - Frankfurt POP",
+            "routedetails": "Singapore POP - Penang POP - BBG - Barka CLS - EIG - Monaco CLS - Frankfurt POP",
+            "slalatency": "182.0",
+            "popa_city": "Singapore",
+            "popz_city": "Frankfurt",
+            "cable_routing": "BBG+EIG"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2+SMW4 - Frankfurt POP",
+            "routedetails": "Hong Kong POP - Lantau CLS - APCN2 - Katong CLS - Singapore POP - Tuas CLS - SMW4 - Marseille CLS - Europe Backbone - Frankfurt POP",
+            "slalatency": "218.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "APCN2+SMW4"
+        },
+        {
+            "solution": "Hong Kong POP - Super TSR(Short)- Frankfurt POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Urumqi POP - CHN-KAZ Border(Khorgos) - Super TSR(Short) - Frankfurt POP",
+            "slalatency": "152.17",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "Super TSR"
+        },
+        {
+            "solution": "Singapore POP - APG+TPE - Hillsboro CLS",
+            "routedetails": "Singapore POP - Tanah Merah CLS - APG - Chongming CLS - TPE - Nedonna Beach CLS– Hillsboro CLS",
+            "slalatency": "171.0",
+            "popa_city": "Singapore",
+            "popz_city": "Hillsboro",
+            "cable_routing": "APG+TPE"
+        },
+        {
+            "solution": "(Lite)Chikura CLS - Faster - Los Angeles FASTER POP",
+            "routedetails": "Chikura CLS - Faster - Bandon CLS - Los Angeles FASTER POP",
+            "slalatency": "109.0",
+            "popa_city": "Chikura",
+            "popz_city": "Los Angeles",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "(Lite)Shima CLS - Faster - San Jose FASTER POP",
+            "routedetails": "Shima CLS - Faster - Bandon CLS - San Jose FASTER POP",
+            "slalatency": "107.0",
+            "popa_city": "Shima",
+            "popz_city": "San Jose",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "(Lite)Shima CLS - Faster - Los Angeles FASTER POP",
+            "routedetails": "Shima CLS - Faster - Bandon CLS - Los Angeles FASTER POP",
+            "slalatency": "114.0",
+            "popa_city": "Shima",
+            "popz_city": "Los Angeles",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "Japan POP - APG - Singapore POP",
+            "routedetails": "Singapore Equinix POP -East Coast CLS - APG - ShinMaruyama CLS- TY2 POP",
+            "slalatency": "69.0",
+            "popa_city": "Tokyo",
+            "popz_city": "Singapore",
+            "cable_routing": "APG"
+        },
+        {
+            "solution": "Singapor POP - SMW5 - Marseille POP",
+            "routedetails": "Singapore POP - Tuas CLS- SMW5 - Toulon CLS - Marseille POP",
+            "slalatency": "143.5",
+            "popa_city": "Singapore",
+            "popz_city": "Marseille",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "Singapore POP - SMW5 - Paris POP",
+            "routedetails": "Singapore POP - Tuas CLS- SMW5 - Djibouti CLS - Toulon CLS - Marseille POP - Paris POP",
+            "slalatency": "153.6",
+            "popa_city": "Singapore",
+            "popz_city": "Paris",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "Singapore POP - SMW5 - Frankfurt POP",
+            "routedetails": "Singapore POP - Tuas CLS- SMW5 - Toulon CLS - Marseille POP- SMW5 BH - Frankfurt POP",
+            "slalatency": "TBC",
+            "popa_city": "Singapore",
+            "popz_city": "Frankfurt",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TMP - Paris POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TMP - Stockholm POP - Europe Backbone - Frankfurt POP - Europe Backbone - Paris POP",
+            "slalatency": "184.0",
+            "popa_city": "HongKong",
+            "popz_city": "Paris",
+            "cable_routing": "TMP"
+        },
+        {
+            "solution": "(Lite)Shima CLS - Faster - Palo Alto FASTER POP",
+            "routedetails": "Shima CLS - Faster - Bandon CLS - Palo Alto FASTER POP",
+            "slalatency": "109.0",
+            "popa_city": "Shima",
+            "popz_city": "Palo Alto",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "Hong Kong Mega-i POP - SJC+Faster - Los Angeles POP",
+            "routedetails": "Hong Kong Mega-i POP - Chung Hom Kok CLS - SJC - Chikura CLS - Faster - Bandon CLS - Los Angeles POP",
+            "slalatency": "149.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "SJC+FASTER"
+        },
+        {
+            "solution": "Hong Kong POP - APCN2 - PC1 - Los Angeles POP",
+            "routedetails": "Hong Kong POP - APCN2 BH - Lantau CLS - APCN2 - Chongming CLS - Kitaibaraki CLS - Agigaura CLS - Shima CLS - PC1(South) - Grover Beach CLS - US Backhaul - Los Angeles POP",
+            "slalatency": "173.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "APCN2+PC1"
+        },
+        {
+            "solution": "(Lite)Singapore SMW5 POP- SWM5 - Marseille SMW5 POP",
+            "routedetails": "Singapore SMW5 POP - Tuas CLS- SMW5 - Djibouti CLS - Toulon CLS - Marseille SMW5 POP",
+            "slalatency": "145.0",
+            "popa_city": "Singapore",
+            "popz_city": "Marseille",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "(Lite)Singapore SMW5 POP- SWM5 - Marmaris CLS",
+            "routedetails": "Singapore SMW5 POP - Tuas CLS- SMW5 - Marmaris CLS",
+            "slalatency": "120.0",
+            "popa_city": "Singapore",
+            "popz_city": "Marmaris",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "(Lite)Singapore SMW5 POP- SWM5 - Palermo SWM5 POP",
+            "routedetails": "Singapore SMW5 POP - Tuas CLS- SMW5 - Catania CLS - Palermo SWM5 POP",
+            "slalatency": "130.0",
+            "popa_city": "Singapore",
+            "popz_city": "Palermo",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "(Lite)Djibouti CLS- SWM5 - Marseille SMW5 POP",
+            "routedetails": "Djibouti CLS - SMW5 - Toulon CLS - Marseille SMW5 POP",
+            "slalatency": "65.0",
+            "popa_city": "Djibouti",
+            "popz_city": "Marseille",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "(Lite)Singapore SMW5 POP- SWM5 - Djibouti CLS",
+            "routedetails": "Singapore SMW5 POP - Tuas CLS- SMW5 - Djibouti CLS",
+            "slalatency": "81.0",
+            "popa_city": "Singapore",
+            "popz_city": "Djibouti",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "Hong Kong POP - Super TSR+ - Frankfurt POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Urumqi POP - CHN-KAZ Border(Khorgos) - TSR+ - Frankfurt POP",
+            "slalatency": "161.3",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "TSR+"
+        },
+        {
+            "solution": "Hong Kong POP - Super TSR(Long)- Frankfurt POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Urumqi POP - CHN-KAZ Border(Khorgos) - Super TSR(Long) - Frankfurt POP",
+            "slalatency": "182.0",
+            "popa_city": "HongKong",
+            "popz_city": "Frankfurt",
+            "cable_routing": "Super TSR"
+        },
+        {
+            "solution": "Japan POP - Faster - San Jose POP",
+            "routedetails": "Japan POP - Chikura CLS - Faster - Bandon CLS - San Jose FASTER POP - San Jose POP",
+            "slalatency": "102.0",
+            "popa_city": "Tokyo",
+            "popz_city": "San Jose",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "Chikura CLS - Faster - Los Angeles POP",
+            "routedetails": "Chikura CLS - Faster - Bandon CLS - Los Angeles POP",
+            "slalatency": "109.0",
+            "popa_city": "Chikura",
+            "popz_city": "Los Angeles",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "(Lite)Tanshui CLS - TPE-  Hillsboro CLS",
+            "routedetails": "Tanshui CLS - TPE-  Hillsboro CLS",
+            "slalatency": "120.0",
+            "popa_city": "Tanshui",
+            "popz_city": "Hillsboro",
+            "cable_routing": "TPE"
+        },
+        {
+            "solution": "(Lite)Chikura CLS - Faster - Hillsboro FASTER POP",
+            "routedetails": "Chikura CLS - Faster - Bandon CLS - Hillsboro FASTER POP",
+            "slalatency": "93.0",
+            "popa_city": "Chikura",
+            "popz_city": "Hillsboro",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "(Lite)Shima CLS - Faster - Hillsboro FASTER POP",
+            "routedetails": "Shima CLS - Faster - Bandon CLS - Hillsboro FASTER POP",
+            "slalatency": "98.0",
+            "popa_city": "Shima",
+            "popz_city": "Hillsboro",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "Chikura CLS-Japan Backbone-Japan TY2 POP",
+            "routedetails": "Chikura CLS-Chikura POP-Japan Backbone-Japan TY2 POP",
+            "slalatency": "3.0",
+            "popa_city": "Chikura",
+            "popz_city": "Tokyo",
+            "cable_routing": "Japan Backbone"
+        },
+        {
+            "solution": "Japan TY2 POP-Japan Backbone-Japan @Tokyo POP",
+            "routedetails": "Japan TY2 POP-Japan Backbone-Japan @Tokyo POP",
+            "slalatency": "1.0",
+            "popa_city": "Tokyo",
+            "popz_city": "Tokyo",
+            "cable_routing": "Japan Backbone"
+        },
+        {
+            "solution": "Shin Maruyama CLS-Japan Backbone-Japan @Tokyo POP",
+            "routedetails": "Shin Maruyama CLS-Shin Maruyama POP-Japan Backbone-Japan @Tokyo POP",
+            "slalatency": "3.0",
+            "popa_city": "Shin Maruyama",
+            "popz_city": "Tokyo",
+            "cable_routing": "Japan Backbone"
+        },
+        {
+            "solution": "Singapore POP - SMW4 - London POP",
+            "routedetails": "Singapore POP - Tuas CLS - SMW4 - Marseille CLS - Frankfurt POP - Europe Backbone - London POP",
+            "slalatency": "200.0",
+            "popa_city": "Singapore",
+            "popz_city": "London",
+            "cable_routing": "SMW4"
+        },
+        {
+            "solution": "Singapore POP - SMW5 - London POP",
+            "routedetails": "Singapore POP - Tuas CLS- SMW5 - Djibouti CLS - Toulon CLS - Marseille POP - Paris POP - Europe Backbone - London POP",
+            "slalatency": "166.0",
+            "popa_city": "Singapore",
+            "popz_city": "London",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC - TMP+ - London POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Erenhot) - TMP+ - Stockholm POP - Europe Backbone - London POP",
+            "slalatency": "162.19",
+            "popa_city": "HongKong",
+            "popz_city": "London",
+            "cable_routing": "TMP+"
+        },
+        {
+            "solution": "Hong Kong POP - SJC - PC1 - New York POP",
+            "routedetails": "Hong Kong POP - Chung Hom Kok CLS - SJC - Chikura CLS - @Tokyo POP - Agigaura CLS - PC1 - Harbour Pointe CLS - US Backhaul - Seattle POP - Chicago POP - New York POP",
+            "slalatency": "192.80",
+            "popa_city": "HongKong",
+            "popz_city": "New York",
+            "cable_routing": "SJC+PC1"
+        },
+        {
+            "solution": "(Lite)Katong CLS - APCN2 - Chikura CLS",
+            "routedetails": "Katong CLS - APCN2 - Chikura CLS",
+            "slalatency": "76.1",
+            "popa_city": "Katong",
+            "popz_city": "Chikura",
+            "cable_routing": "APCN2"
+        },
+        {
+            "solution": "(Lite)Singapore SJC POP - APG - Shinmaruyama CLS",
+            "routedetails": "Singapore SJC POP - East Coast CLS - APG - Shinmaruyama CLS",
+            "slalatency": "67.6",
+            "popa_city": "Singapore",
+            "popz_city": "Shin Maruyama",
+            "cable_routing": "APG"
+        },
+        {
+            "solution": "(Lite)East Coast CLS - APG - Shinmaruyama CLS",
+            "routedetails": "East Coast CLS - APG - Shinmaruyama CLS",
+            "slalatency": "66.1",
+            "popa_city": "Singapore",
+            "popz_city": "Shin Maruyama",
+            "cable_routing": "APG"
+        },
+        {
+            "solution": "(Lite)Hong Kong SJC POP - SJC - Chikura CLS",
+            "routedetails": "Hong Kong SJC POP - Chung Hom Kok CLS - SJC - Chikura CLS",
+            "slalatency": "48.0",
+            "popa_city": "HongKong",
+            "popz_city": "Chikura",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "(Lite)Hong Kong SJC POP - SJC - Singapore SJC POP",
+            "routedetails": "Hong Kong SJC POP - Chung Hom Kok CLS - SJC - Tuas CLS - Singapore SJC POP",
+            "slalatency": "38.0",
+            "popa_city": "HongKong",
+            "popz_city": "Singapore",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "(Lite)Singapore SJC POP - SJC - Chikura CLS",
+            "routedetails": "Singapore SJC POP - Tuas CLS - SJC - Chikura CLS",
+            "slalatency": "68.0",
+            "popa_city": "Singapore",
+            "popz_city": "Chikura",
+            "cable_routing": "SJC"
+        },
+        {
+            "solution": "Singapore Global Switch POP - Singapore Backbone - Singapore Equinix POP",
+            "routedetails": "Singapore Global Switch POP - Singapore Backbone - Singapore Equinix POP",
+            "slalatency": "3.0",
+            "popa_city": "Singapore",
+            "popz_city": "Singapore",
+            "cable_routing": "Singapore Backbone"
+        },
+        {
+            "solution": "London Harbour Exchange POP - Europe Backbone - London Telecity POP",
+            "routedetails": "London Harbour Exchange POP - Europe Backbone - London Telecity POP",
+            "slalatency": "3.0",
+            "popa_city": "London",
+            "popz_city": "London",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Frankfurt Interxion POP - Europe Backbone -Frankfurt EQ POP",
+            "routedetails": "Frankfurt Interxion POP - Europe Backbone -Frankfurt EQ POP",
+            "slalatency": "3.0",
+            "popa_city": "Frankfurt",
+            "popz_city": "Frankfurt",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Hong Kong POP - Hong Kong-Beijing Terrestrial Cable - CHN-RUS Border(Manzhouli)",
+            "routedetails": "Hong Kong POP - HK/SZ Border - Beijing ITMC - CHN-RUS Border(Manzhouli)",
+            "slalatency": "75.0",
+            "popa_city": "HongKong",
+            "popz_city": "Manzhouli",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "Singapore POP - APG+TPE - Los Angeles POP",
+            "routedetails": "Singapore POP - Tanah Merah CLS - APG - Chongming CLS - TPE - Hillsboro CLS– Los Angeles POP",
+            "slalatency": "187.1",
+            "popa_city": "Singapore",
+            "popz_city": "Los Angeles",
+            "cable_routing": "APG+TPE"
+        },
+        {
+            "solution": "Singapore POP - SJC+Faster - Los Angeles POP",
+            "routedetails": "Singapore POP - Chung Hom Kok CLS - SJC - Chikura CLS - Faster - Bandon CLS - Los Angeles POP",
+            "slalatency": "173.1",
+            "popa_city": "Singapore",
+            "popz_city": "Los Angeles",
+            "cable_routing": "SJC+FASTER"
+        },
+        {
+            "solution": "Shanghai ITMC - APCN2+PC1(Nor)- Los Angeles POP",
+            "routedetails": "CHN-MNG Border(Erenhot) - Beijing ITMC - Shanghai ITMC - Chongming CLS - APCN2 - Kitaibaraki CLS - Chikura CLS - @Tokyo POP - Agigaru CLS - PC1(North) - Harbour Pointe CLS - Grover Beach CLS - Los Angeles POP",
+            "slalatency": "182.0",
+            "popa_city": "Los Angeles",
+            "popz_city": "Erenhot",
+            "cable_routing": "APCN2+PC1"
+        },
+        {
+            "solution": "Japan POP - Faster - Chicago POP",
+            "routedetails": "Japan POP - Chikura CLS - Faster - Bandon CLS -San Jose POP - America Backbone - Chicago POP",
+            "slalatency": "163.4",
+            "popa_city": "Tokyo",
+            "popz_city": "Chicago",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "Japan POP - Faster - Los Angeles POP",
+            "routedetails": "Japan POP - Chikura CLS - Faster - Bandon CLS - San Jose FASTER POP -Los Angeles POP",
+            "slalatency": "110.0",
+            "popa_city": "Tokyo",
+            "popz_city": "Los Angeles",
+            "cable_routing": "Faster"
+        },
+        {
+            "solution": "Tuas CLS-SGP-SMW3-AUS Bilateral Point",
+            "routedetails": "Tuas CLS-SGP-SMW3-AUS Bilateral Point",
+            "slalatency": "n/a",
+            "popa_city": "Tuas",
+            "popz_city": "Tuas",
+            "cable_routing": "SMW3"
+        },
+        {
+            "solution": "Osaka POP(S)-Japan Backbone-Tokyo POP",
+            "routedetails": "Osaka POP(S)-Japan Backbone-Tokyo POP",
+            "slalatency": "11.0",
+            "popa_city": "Osaka",
+            "popz_city": "Tokyo",
+            "cable_routing": "Japan Backbone"
+        },
+        {
+            "solution": "Sofia POP(S)-Eroupe Backbone-Frankfurt POP",
+            "routedetails": "Sofia POP(S)-Eroupe Backbone-Frankfurt POP",
+            "slalatency": "32.0",
+            "popa_city": "Sofia",
+            "popz_city": "Frankfurt",
+            "cable_routing": "Eroupe Backbone"
+        },
+        {
+            "solution": "Capetown POP(S)-MEA Backbone-Johannesburg POP",
+            "routedetails": "Capetown POP(S)-MEA Backbone-Johannesburg POP",
+            "slalatency": "32.0",
+            "popa_city": "Capetown",
+            "popz_city": "Johannesburg",
+            "cable_routing": "MEA Backbone"
+        },
+        {
+            "solution": "Durban POP(S)-MEA Backbone-Johannesburg POP",
+            "routedetails": "Durban POP(S)-MEA Backbone-Johannesburg POP",
+            "slalatency": "32.0",
+            "popa_city": "Durban",
+            "popz_city": "Johannesburg",
+            "cable_routing": "MEA Backbone"
+        },
+        {
+            "solution": "Lantau CLS - AAG - Los Angeles POP",
+            "routedetails": "Lantau CLS - AAG - Los Angeles POP",
+            "slalatency": "tbc",
+            "popa_city": "Lantau",
+            "popz_city": "Los Angeles",
+            "cable_routing": "AAG"
+        },
+        {
+            "solution": "(Lite)East Coast CLS - APG - Tseung Kwan O CLS",
+            "routedetails": "East Coast CLS - APG - Tseung Kwan O CLS",
+            "slalatency": "32.5",
+            "popa_city": "Singapore",
+            "popz_city": "Tseung Kwan",
+            "cable_routing": "APG"
+        },
+        {
+            "solution": "Karachi POP(S)-SMW5/TW1+SMW4-Singapore POP",
+            "routedetails": "Main：Karachi POP(S)-SMW5-Singapore POP                                                  Backup：Karachi POP(S)-TW1-Fujairah CLS-SMW4-Singapore POP",
+            "slalatency": "80.0",
+            "popa_city": "Karachi",
+            "popz_city": "Singapore",
+            "cable_routing": "SMW5/TW1+SMW4"
+        },
+        {
+            "solution": "Singapore POP - SJC+TPE - Washington D.C. POP",
+            "routedetails": "Singapore POP-SJC-Hong Kong POP-HK/SZ Border-Shanghai ITMC-Chongming CLS-TPE-San Jose POP-America Backhaul-Washington D.C. POP",
+            "slalatency": "254.0",
+            "popa_city": "Singapore",
+            "popz_city": "Washington",
+            "cable_routing": "SJC+TPE"
+        },
+        {
+            "solution": "Singapore POP - SMW5+Hibernia Express - Washington D.C. POP",
+            "routedetails": "Singapore POP-SMW5-Paris POP-London POP-Hibernia Express-Washington D.C. POP",
+            "slalatency": "240.0",
+            "popa_city": "Singapore",
+            "popz_city": "Washington",
+            "cable_routing": "SMW5+Hibernia Express"
+        },
+        {
+            "solution": "Singapore POP - APG+FASTER- Washington D.C. POP",
+            "routedetails": "Singapore POP-APG-Japan POP-FASTER-Los Angeles POP-America Backhaul-Washington D.C. POP",
+            "slalatency": "234.0",
+            "popa_city": "Singapore",
+            "popz_city": "Washington",
+            "cable_routing": "APG+FASTER"
+        },
+        {
+            "solution": "Singapore POP - APCN2+AAG- Washington D.C. POP",
+            "routedetails": "Singapore POP-APCN2-Hong Kong POP-AAG-Los Angeles POP-America Backhaul-Washington D.C. POP",
+            "slalatency": "246.3",
+            "popa_city": "Singapore",
+            "popz_city": "Washington",
+            "cable_routing": "APCN2+AAG"
+        },
+        {
+            "solution": "Singapore POP -AAE1- London POP",
+            "routedetails": "Singapore POP - Kuala Kurau CLS -AAE1-Marseille CLS - Marseille POP - Paris POP -London POP",
+            "slalatency": "154.0",
+            "popa_city": "Singapore",
+            "popz_city": "London",
+            "cable_routing": "AAE1"
+        },
+        {
+            "solution": "Singapore POP - SJC+TPE - Washington D.C. POP",
+            "routedetails": "Singapore POP-APCN2-Hong Kong POP-HK/SZ Border-Shanghai ITMC-Chongming CLS-APCN2-Chikura CLS-FASTER-Los Angeles POP-America Backhaul-Washington D.C. POP",
+            "slalatency": "256.6",
+            "popa_city": "Singapore",
+            "popz_city": "Washington",
+            "cable_routing": "APCN2+FASTER"
+        },
+        {
+            "solution": "London POP-Hibernia Express-Washington D.C. POP",
+            "routedetails": "London POP-Hibernia Express-Washington D.C. POP",
+            "slalatency": "77.0",
+            "popa_city": "London",
+            "popz_city": "Washington",
+            "cable_routing": "Hibernia Express"
+        },
+        {
+            "solution": "CHN-NPL Border(Jilong)- Hong Kong-Mainland China Terrestrial Cable - Hong Kong POP",
+            "routedetails": "CHN-NPL Border(Jilong) - Hong Kong-Mainland China Terrestrial Cable - Guangzhou ITMC - HK/SZ Border - Hong Kong POP",
+            "slalatency": "75.0",
+            "popa_city": "HongKong",
+            "popz_city": "Jilong",
+            "cable_routing": "Hong Kong-Mainland China Terrestrial Cable"
+        },
+        {
+            "solution": "Hong Kong POP-APCN2+NCP-Dallas POP",
+            "routedetails": "Hong Kong POP-Lantau CLS-Chongming CLS-APCN2-Chikura CLS-Maruyama CLS-NCP-LA POP-Dallas POP",
+            "slalatency": "224.0",
+            "popa_city": "HongKong",
+            "popz_city": "Dallas",
+            "cable_routing": "APCN2+NCP"
+        },
+        {
+            "solution": "Hong Kong POP - Beijing ITMC -TEA -Milan POP",
+            "routedetails": "Hong Kong POP - HK/SZ Border-Guangzhou ITMC - Beijing ITMC - CHN-MNG Border(Heihe) - TEA - Stockholm POP -  Frankfurt POP- Europe Backbone - Milan POP",
+            "slalatency": "230.0",
+            "popa_city": "HongKong",
+            "popz_city": "Milan",
+            "cable_routing": "TEA"
+        },
+        {
+            "solution": "Hong Kong POP – AAG+AJC-Sydney POP",
+            "routedetails": "Hong Kong POP - Lantou CLS – AAG - La Union CLS – Tanguisson CLS – AJC - Oxford Falls CLS - Sydney POP",
+            "slalatency": "122.0",
+            "popa_city": "HongKong",
+            "popz_city": "Sydney",
+            "cable_routing": "AAG+AJC"
+        },
+        {
+            "solution": "London POP-Apollo North-Washington D.C. POP",
+            "routedetails": "London POP-Apollo North-Washington D.C. POP",
+            "slalatency": "78.0",
+            "popa_city": "London",
+            "popz_city": "Washington",
+            "cable_routing": "Apollo North"
+        },
+        {
+            "solution": "Singapore POP - APG - Shima CLS",
+            "routedetails": "Singapore POP - Tanah Merah CLS - APG - Shima CLS",
+            "slalatency": "65.4",
+            "popa_city": "Singapore",
+            "popz_city": "Shima",
+            "cable_routing": "APG"
+        },
+        {
+            "solution": "(Lite)Maruyama CLS - NCP - Hilllsboro NCP POP",
+            "routedetails": "Maruyama CLS - NCP - Pacific city CLS - Hilllsboro NCP POP",
+            "slalatency": "90.4",
+            "popa_city": "Maruyama",
+            "popz_city": "Hilllsboro",
+            "cable_routing": "NCP"
+        },
+        {
+            "solution": "Singapore POP -AAE1- Marseille POP",
+            "routedetails": "Singapore POP - Kuala Kurau CLS -AAE1-Marseille CLS - Marseille POP",
+            "slalatency": "136.5",
+            "popa_city": "Singapore",
+            "popz_city": "Marseille",
+            "cable_routing": "AAE1"
+        },
+        {
+            "solution": "Hong Kong POP-APCN2+UNITY-Los Angeles POP",
+            "routedetails": "Hong Kong POP-HK/SZ Border-Shanghai ITM-APCN2+UNITY-Los Angeles POP",
+            "slalatency": "174.0",
+            "popa_city": "HongKong",
+            "popz_city": "Los Angeles",
+            "cable_routing": "APCN2+UNITY"
+        },
+        {
+            "solution": "Madrid POP - Europe Backbone - Paris POP",
+            "routedetails": "Madrid POP- Europe Backbone - Paris POP",
+            "slalatency": "TBC",
+            "popa_city": "Madrid",
+            "popz_city": "Paris",
+            "cable_routing": "Europe Backbone"
+        },
+        {
+            "solution": "Singapore POP- SWM5 - Marseille SMW5 POP",
+            "routedetails": "Singapore POP-Singapore SMW5 POP - Tuas CLS- SMW5 - Djibouti CLS - Toulon CLS - Marseille SMW5 POP",
+            "slalatency": "145.0",
+            "popa_city": "Singapore",
+            "popz_city": "Marseille",
+            "cable_routing": "SMW5"
+        },
+        {
+            "solution": "Hong Kong POP - TPE - CHN-KOR Bilateral Point",
+            "routedetails": "Hong Kong POP-Beijing ITMC - Qingdao CLS - TPE - CHN-KOR Bilateral Point",
+            "slalatency": "66.0",
+            "popa_city": "HongKong",
+            "popz_city": "Qingdao",
+            "cable_routing": "TPE"
+        }
+    ]
+}
